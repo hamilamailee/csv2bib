@@ -1,0 +1,578 @@
+Title,key
+2D shading for cel animation,0
+3D Shape Reconstruction from Sketches via Multi-view Convolutional Networks,1
+A Challenging Benchmark of Anime Style Recognition,2
+A Comprehensive Gold Standard and Benchmark for Comics Text Detection and Recognition,3
+A Comprehensive Study of Deep Video Action Recognition,4
+A Deep Learning Pipeline for the Synthesis of Graphic Novels,5
+A Deep Learning-Based Approach for Inappropriate Content Detection and Classification of YouTube Videos,6
+A Domain Gap Aware Generative Adversarial Network for Multi-domain Image Translation,7
+A Drawing Support System for Sketching Aging Anime Faces,8
+A Fast and Efficient Semi-guided Algorithm for Flat Coloring Line-arts,9
+A Faster R-CNN Based Method for Comic Characters Face Detection,10
+A Neural Representation of Sketch Drawings,11
+A Note on Data Biases in Generative Models,12
+A Novel Double-Tail Generative Adversarial Network for Fast Photo Animation,13
+A Simple Framework for Contrastive Learning of Visual Representations,14
+A Study on Generating Webtoons Using Multilingual Text-to-Image Models,15
+A Study on Object Detection Method from Manga Images Using CNN,16
+A Study to Achieve Manga Character Retrieval Method for Manga Images,17
+A Survey of Comics Research in Computer Science,18
+"A Survey on Machine Reading Comprehension—Tasks, Evaluation Metrics and Benchmark Datasets",19
+A Transformer-Based Model for Super-Resolution of Anime Image,20
+AccessComics2: Understanding the User Experience of an Accessible Comic Book Reader for Blind People with Textual Sound Effects,21
+ACFD: Asymmetric Cartoon Face Detector,22
+Action2Sound: Ambient-Aware Generation of Action Sounds from Egocentric Videos,23
+Adding Conditional Control to Text-to-Image Diffusion Models,24
+Advancing Manga Analysis: Comprehensive Segmentation Annotations for the Manga109 Dataset,25
+AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning,26
+Alchemist: Parametric Control of Material Properties with Diffusion Models,27
+Algorithms for Estimation of Comic Speakers Considering Reading Order of Frames and Texts,28
+Aligning Anime Video Generation with Human Feedback,29
+Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint,30
+An Adaptive Control Algorithm for Stable Training of Generative Adversarial Networks,31
+An Evaluation of Traditional and CNN-Based Feature Descriptors for Cartoon Pornography Detection,32
+Analysis Based on Distributed Representations of Various Parts Images in Four-Scene Comics Story Dataset,33
+AniDoc: Animation Creation Made Easier,34
+AniFaceDrawing: Anime Portrait Exploration during Your Sketching,35
+AniGAN: Style-Guided Generative Adversarial Networks for Unsupervised Anime Face Generation,36
+ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video,37
+Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation,38
+Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation,39
+Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation,40
+Animate-X: Universal Character Image Animation with Enhanced Motion Representation,41
+AnimateDiff-Lightning: Cross-Model Diffusion Distillation,42
+Animation Anycolor: Enhancing Line Drawing Colorization with Keypoint Matching,43
+Animation Line Art Colorization Based on Optical Flow Method,44
+Anime Character Colorization using Few-shot Learning,45
+Anime like Character Face Generation: A survey,46
+Anime Sketch Coloring with Swish-gated Residual U-net and Spectrally Normalized GAN,47
+Anime Sketch Colorization by Component-based Matching using Deep Appearance Features and Graph Representation,48
+Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks,49
+Anime Style Transfer With Spatially-Adaptive Normalization,50
+Anime-to-Real Clothing: Cosplay Costume Generation via Image-to-Image Translation,51
+AnimeCeleb: Large-Scale Animation CelebHeads Dataset for Head Reenactment,52
+AnimeColor: Reference-based Animation Colorization with Diffusion Transformers,53
+AnimeDiffusion: Anime Face Line Drawing Colorization via Diffusion Models,54
+AnimeDL-2M: Million-Scale AI-Generated Anime Image Detection and Localization in Diffusion Era,55
+AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction,56
+AnimeGAN: a novel lightweight GAN for photo animation,57
+AnimeRun: 2D Animation Visual Correspondence from Open Source 3D Movies,58
+AnimeShooter: A Multi-Shot Animation Dataset for Reference-Guided Video Generation,59
+AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos,60
+AniSora: Exploring the Frontiers of Animation Video Generation in the Sora Era,61
+Anita Dataset: An Industrial Animation Dataset ,62
+AniWho : A Quick and Accurate Way to Classify Anime Character Faces in Images,63
+APISR: Anime Production Inspired Real-World Anime Super-Resolution,64
+Appearance-preserved Portrait-to-anime Translation via Proxy-guided Domain Adaptation,65
+ARGAN: Fast Converging GAN for Animation Style Transfer,66
+Artist-Guided Semiautomatic Animation Colorization,67
+ATTENTION-AWARE ANIME LINE DRAWING COLORIZATION,68
+Attention-Based Unsupervised Sketch Colorization of Anime Avatar,69
+Attentioned Deep Paint,70
+AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks,71
+Augmenting Conversations With Comic-Style Word Balloons,72
+Augmenting Hand-Drawn Art with Global Illumination Effects through Surface Inflation,73
+AugNet: End-to-End Unsupervised Visual Representation Learning with Image Augmentation,74
+Auto-Encoding for Shared Cross Domain Feature Representation and Image-to-Image Translation,75
+Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Wasserstein Generative Adversarial Networks,76
+Autoencoding Generative Adversarial Networks,77
+Automatic Animation Inbetweening,78
+Automatic Colorization of Anime Style Illustrations Using a Two-Stage Generator,79
+Automatic Comic Generation with Stylistic Multi-page Layouts and Emotion-driven Text Balloon Generation,80
+Automatic Comic Strip Generation Using Extracted Keyframes from Cartoon Animation,81
+Automatic Dewarping of Camera-Captured Comic Document Images,82
+Automatic Generation of 3D Natural Anime-like Non-Player Characters with Machine Learning,83
+Automatic Illumination Effects for 2D Characters,84
+Automatic Illumination of Flat-Colored Drawings by 3D Augmentation of 2D Silhouettes,85
+Automatic manga colorization with color style by generative adversarial nets,86
+Automatic Preview Generation of Comic Episodes for Digitized Comic Search,87
+Automatic Sketch Colorization with Tandem Conditional Adversarial Networks,88
+Automatic Stylistic Manga Layout,89
+Automatic Temporally Coherent Video Colorization,90
+BCBId: First Bangla Comic Dataset and Its Applications,91
+Breaking the cycle—Colleagues are all you need,92
+Bridging the Gap: Sketch-Aware Interpolation Network for High-Quality Animation Sketch Inbetweening \,93
+Building a Manga Dataset ”Manga109” with Annotations for Multimedia Applications,94
+C2VNet: A Deep Learning Framework Towards Comic Strip to Audio-Visual Scene Synthesis,95
+CameraCtrl: Enabling Camera Control for Text-to-Video Generation,96
+Caricaturation for Human Face Pictures,97
+Cartoon Face Recognition: A Benchmark Dataset,98
+Cartoon image colorization based on emotion recognition and superpixel color resolution,99
+Cartoon Image Processing: A Survey,100
+Cartoon-Flow: A Flow-Based Generative Adversarial Network for Arbitrary-Style Photo Cartoonization,101
+CartoonGAN: Generative Adversarial Networks for Photo Cartoonization,102
+Cartoonize Images using TinyML Strategies with Transfer Learning,103
+CartoonRenderer: An Instance-based Multi-Style Cartoon Image Translator,104
+CAST: CHARACTER LABELING IN ANIMATION USING SELF-SUPERVISION BY TRACKING,105
+CAST: Character Labeling in Animation Using Self‐supervision by Tracking,106
+cGAN-based Manga Colorization Using a Single Training Image,107
+Challenges in Procedural Multimodal Machine Comprehension: A Novel Way To Benchmark,108
+Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance,109
+Character-Centric Story Visualization via Visual Planning and Token Alignment,110
+"ChartStory: Automated Partitioning, Layout, and Captioning of Charts into Comic-Style Narratives",111
+Classification Representations Can be Reused for Downstream Generations,112
+Closed-Form Factorization of Latent Semantics in GANs,113
+CNN based Extraction of Panels/Characters from Bengali Comic Book Page Images,114
+Cobra: Efficient Line Art COlorization with BRoAder References,115
+"CodeToon: Story Ideation, Auto Comic Generation, and Structure Mapping for Code-Driven Storytelling",116
+CogCartoon: Towards Practical Story Visualization,117
+Collaborative Neural Rendering using Anime Character Sheets,118
+Color Attributes for Object Detection,119
+Color Interpolation for Non-Euclidean Color Spaces,120
+ColorFlow: Retrieval-Augmented Image Sequence Colorization,121
+Coloring anime line art videos with transformation region enhancement network,122
+Colorization for Anime Sketches with Cycle-Consistent Adversarial Network,123
+Colorization of Line Drawings with Empty Pupils,124
+ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities,125
+ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text,126
+Combating Mode Collapse in GANs via Manifold Entropy Estimation,127
+Comic Character Animation Using Bayesian Estimation,128
+Comic Image Inpainting via Distance Transform,129
+Comic Live Chat Communication Tool Based on Concept of Downgrading,130
+Comic MTL: Optimized Multi-Task Learning for Comic Book Image Analysis,131
+Comic Story Analysis Based on Genre Classification,132
+Comic-Guided Speech Synthesis,133
+ComiCap: A VLMs pipeline for dense captioning of Comic Panels,134
+ComicBERT: A Transformer Model and Pre-training Strategy for Contextual Understanding in Comics,135
+ComicGAN: Text-to-Comic Generative Adversarial Network,136
+ComicLib: A New Large-Scale Comic Dataset for Sketch Understanding,137
+Comicolorization: Semi-Automatic Manga Colorization,138
+ComicQA: Contextual Navigation Aid by Hyper-Comic Representation,139
+Comics as a Pedagogical Tool for Teaching,140
+Comics Datasets Framework: Mix of Comics datasets for detection benchmarking,141
+Comics for Everyone: Generating Accessible Text Descriptions for Comic Strips,142
+CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding,143
+Comixify: Transform video into a comics,144
+Competition on Multimodal Emotion Recognition on Comics Scenes,145
+Computational Approaches to Comics Analysis,146
+Conditional GAN for Small Datasets,147
+Content-Aware Video2Comics With Manga-Style Layout,148
+Context-Informed Machine Translation of Manga using Multimodal Large Language Models,149
+Continual few-shot patch-based learning for anime-style colorization ,150
+Controlling StyleGANs Using Rough Scribbles via One-shot Learning,151
+COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts,152
+COO/ Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts,153
+CoPE: Conditional image generation using Polynomial Expansions,154
+CPD: Faster RCNN-based DragonBall Comic Panel Detection,155
+CPTNet: Cascade Pose Transform Network for Single Image Talking Head Animation,156
+Cracking the Code of Juxtaposition: Can AI Models Understand the Humorous Contradictions,157
+Creative Flow+ Dataset,158
+Cross-Domain and Disentangled Face Manipulation with 3D Guidance,159
+Cross-Domain Style Mixing for Face Cartoonization,160
+Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation,161
+Cross-modal and Semantics-Augmented Asymmetric CycleGAN for Data-Imbalanced Anime Style Face Translation,162
+CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities,163
+DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks,164
+"DAF:RE: A CHALLENGING, CROWD-SOURCED, LARGE-SCALE, LONG-TAILED DATASET FOR ANIME CHARACTER RECOGNITION",165
+DanbooRegion: An Illustration Region Dataset,166
+DASS-Detector: Domain-Adaptive Self-Supervised Pre-Training for Face \& Body Detection in Drawings,167
+Data InStance Prior (DISP) in Generative Adversarial Networks,168
+DATA INSTANCE PRIOR FOR TRANSFER LEARNING IN GANS,169
+Decomposing Images into Layers with Advanced Color Blending,170
+Deep Animation Video Interpolation in the Wild,171
+Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects,172
+Deep Extraction of Manga Structural Lines,173
+Deep Geometrized Cartoon Line Inbetweening,174
+Deep Learning-Based Classification of the Polar Emotions of “Moe”-Style Cartoon Pictures,175
+Deep Line Art Video Colorization with a Few References,176
+Deep Manga Colorization with Color Style Extraction by Conditional Adversarially Learned Inference,177
+Deep Normal Estimation for Automatic Shading of Hand-Drawn Characters,178
+Deep Sketch-guided Cartoon Video Inbetweening,179
+Deep Unfolding with Normalizing Flow Priors for Inverse Problems,180
+Deep-Eyes: Fully Automatic Anime Character Colorization with Painting of Details on Empty Pupils,181
+Dense Multitask Learning to Reconfigure Comics,182
+Depixelizing Pixel Art,183
+Designing a Question-Answering System for Comic Contents,184
+Developing Comic-based Learning Toolkits for Teaching Computing to Elementary School Learners,185
+Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models,186
+DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation,187
+Diffusart: Enhancing Line Art Colorization with Conditional Diffusion Models,188
+Diffusion in Style,189
+Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models,190
+DiLight: Digital light table – Inbetweening for 2D animations using guidelines,191
+Discovering Density-Preserving Latent Space Walks in GANs for Semantic Image Transformations,192
+Discovering Interpretable Latent Space Directions of GANs Beyond Binary Attributes,193
+DisenStudio: Customized Multi-Subject Text-to-Video Generation with Disentangled Spatial Control,194
+Disentangled and controllable sketch creation based ondisentangling the structure and color enhancement,195
+Disentangling Style and Content in Anime Illustrations,196
+DisUnknown: Distilling Unknown Factors for Disentanglement Learning,197
+Do Generative Models Know Disentanglement? Contrastive Learning is All You Need,198
+Do You Like Sclera? Sclera-region Detection and Colorization for Anime Character Line Drawings,199
+Document Classification and Page Stream Segmentation for Digital Mailroom Applications,200
+DoveNet: Deep Image Harmonization via Domain Verification,201
+Dr.Bokeh: DiffeRentiable Occlusion-aware Bokeh Rendering,202
+DrawingSpinUp: 3D Animation from Single Character Drawings,203
+DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning,204
+DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds,205
+DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation,206
+DreamTuner: Single Image is Enough for Subject-Driven Generation,207
+DreamVideo: High-Fidelity Image-to-Video Generation with Image Retention and Text Guidance,208
+DreamWaltz: Make a Scene with Complex 3D Animatable Avatars,209
+Dual Color Space Guided Sketch Colorization,210
+Dual Loss for Manga Character Recognition with Imbalanced Training Data,211
+Dynamic Manga: Animating Still Manga via Camera Movement,212
+DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editing,213
+Efficient Continual Adaptation for Generative Adversarial Networks,214
+EigenGAN: Layer-Wise Eigen-Learning for GANs,215
+Eliminating Gradient Conflict in Reference-based Line-Art Colorization,216
+EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing,217
+Encoding in Style: A StyleGAN Encoder for Image-to-Image Translation,218
+End-to-End Line Drawing Vectorization,219
+Enhanced Deep Animation Video Interpolation,220
+Enhancement of Anime Imaging Enlargement using Modified Super-Resolution CNN,221
+Enhancing the Accessibility for All of Digital Comic Books,222
+Erasing Appearance Preservation in Optimization-based Smoothing,223
+Estimating Image Depth in the Comics Domain,224
+Exemplar-Based Sketch Colorization with Cross-Domain Dense Semantic Correspondence,225
+Exploiting Aliasing for Manga Restoration,226
+Exploring inbetween charts with trajectory-guided sliders for cutout animation,227
+Exploring Phrase Grounding without Training: Contextualisation and Extension to Text-Based Image Retrieval,228
+Exploring Sketch-based Character Design Guided by Automatic Colorization,229
+Extraction of Frame Sequences in the Manga Context,230
+Facial Landmark Detection for Manga Images,231
+FairyGen: Storied Cartoon Video from a Single Child-Drawn Character,232
+Fast Leak-Resistant Segmentation for Anime Line Art,233
+Feature Quantization Improves GAN Training,234
+FEW-SHOT ADAPTATION OF GENERATIVE ADVERSARIAL NETWORKS,235
+Few-shot Knowledge Transfer for Fine-grained Cartoon Face Generation,236
+Few-shot Semantic Image Synthesis Using StyleGAN Prior,237
+Fine-Grained Control of Artistic Styles in Image Generation,238
+FINE-TUNING STYLEGAN2 FOR CARTOON FACE GENERATION,239
+FlatMagic: Improving Flat Colorization through AI-driven Design for Digital Comic Professionals,240
+Floating No More: Object-Ground Reconstruction from a Single Image,241
+Foley Music: Learning to Generate Music from Videos,242
+FoleyGen: Visually-Guided Audio Generation,243
+Framer: Interactive Frame Interpolation,244
+Freeze the Discriminator: a Simple Baseline for Fine-Tuning GANs,245
+FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation,246
+From Speaker to Dubber: Movie Dubbing with Prosody and Duration Consistency Learning,247
+Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks,248
+Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors,249
+GAN Memory with No Forgetting,250
+GAN-based Multi-Style Photo Cartoonization,251
+GANILLA: Generative adversarial networks for image to illustration translation,252
+"GANs N’ Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)",253
+GCN-Based Multi-Modal Multi-Label Attribute Classification in Anime Illustration Using Domain-Specific Semantic Features,254
+Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context,255
+Generate Novel Image Styles using Weighted Hybrid Generative Adversarial Nets,256
+"Generating ""Ideal"" Anime Opening Frames Using Neural Networks",257
+Generating Anime from Real Human Image with Adversarial Training,258
+Generating Coherent Comic with Rich Story Using ChatGPT and Stable Diffusion,259
+Generating Digital Painting Lighting Effects via RGB-space Geometry,260
+Generating Full-Body Standing Figures of Anime Characters and Its Style Transfer by GAN,261
+Generating Manga from Illustrations via Mimicking Manga Creation Workflow,262
+Generating Manga from Illustrations via Mimicking Manga Workflow,263
+Generating Visual Stories with Grounded and Coreferent Characters,264
+Generative Adversarial Networks for photo to Hayao Miyazaki style cartoons,265
+Generative AI for Cel-Animation: A Survey,266
+Generative Omnimatte: Learning to Decompose Video into Layers,267
+Generative Probabilistic Image Colorization,268
+Globally Optimal Toon Tracking,269
+"Good Artists Copy, Great Artists Steal: Model Extraction Attacks Against Image Translation Generative Adversarial Networks",270
+GPT-4,271
+Graph Jigsaw Learning for Cartoon Face Recognition,272
+Graph Matching based Anime Colorization with Multiple References,273
+Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection,274
+GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection,275
+Guiding Users to Where to Give Color Hints for Efficient Interactive Sketch Colorization via Unsupervised Region Prioritization,276
+Hair Shading Style Transfer for Manga with cGAN,277
+Hierarchical Feature Warping and Blending for Talking Head Animation,278
+Hierarchical Multi-Label Attribute Classification With Graph Convolutional Networks on Anime Illustration,279
+High-Resolution Image Harmonization via Collaborative Dual Transformations,280
+High-Resolution Image Synthesis with Latent Diffusion Models,281
+HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms,282
+Histogram of Exclamation Marks and Its Application for Comics Analysis,283
+HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing,284
+How to train your conditional GAN: An approach using geometrically structured latent manifolds,285
+HRInversion: High-Resolution GAN Inversion for Cross-Domain Image Synthesis,286
+Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes,287
+Hyprogan: Breaking the Dimensional wall From Human to Anime,288
+I Hear Your True Colors: Image Guided Audio Generation,289
+Identity-Aware Semi-Supervised Learning for Comic Character Re-Identification,290
+Illustration2Vec: A Semantic Vector Representation of Illustrations,291
+Image Colorization: A Survey and Dataset,292
+Image Generation From Small Datasets via Batch Statistics Adaptation,293
+Image Referenced Sketch Colorization Based on Animation Creation Workflow,294
+Image-to-Image Translation with Conditional Adversarial Networks,295
+Improving Generation and Evaluation of Visual Stories via Semantic Consistency,296
+Improving Reference-Based Image Colorization For Line Arts Via Feature Aggregation And Contrastive Learning,297
+Improving Shape Deformation in Unsupervised Image-to-Image Translation,298
+Improving the Perceptual Quality of 2D Animation Interpolation,299
+Improving The Quality Of Illustrations: Transforming Amateur Illustrations To A Professional Standard,300
+Ink-and-Ray: Bas-Relief Meshes for Adding Global Illumination Effects to Hand-Drawn Characters,301
+Inkn'hue: Enhancing Manga Colorization from Multiple Priors with Alignment Multi-Encoder VAE,302
+Instance-guided Cartoon Editing with a Large-scale Dataset,303
+"Integrating Visuospatial, Linguistic and Commonsense Structure intoStory Visualization",304
+Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models,305
+Interactive Anime Sketch Colorization with Style Consistency via a Deep Residual Neural Network,306
+Interactive Cartoonization with Controllable Perceptual Factors,307
+Interactive Data Comics,308
+Interactive Manga Colorization with Fast Flat Coloring,309
+InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks,310
+Interpolation based Anime Face Style Transfer,311
+Intrinsic Image Harmonization,312
+Investigating Neural Networks and Transformer Models for Enhanced Comic Decoding,313
+Joint Geometric-Semantic Driven Character Line Drawing Generation,314
+Joint Stroke Tracing and Correspondence for 2D Animation,315
+JoJoGAN: One Shot Face Stylization,316
+KidsGUARD: Fine Grained Approach for Child Unsafe Video Representation and Detection,317
+L2M-GAN: Learning to Manipulate Latent Space Semantics for Facial Attribute Editing,318
+Landmark Assisted CycleGAN for Cartoon Face Generation,319
+Language-Guided Face Animation by Recurrent StyleGAN-based Generator,320
+LANIT: Language-Driven Image-to-Image Translation for Unlabeled Data,321
+Large Language Models as Manga Translators: A Case Study,322
+Late-resizing: A Simple but Effective Sketch Extraction Strategy for Improving Generalization of Line-art Colorization,323
+LayerAnimate: Layer-specific Control for Animation,324
+LayoutGAN: Generating Graphic Layouts with Wireframe Discriminators,325
+Learning Consensus Representation for Weak Style Classification,326
+"Learning from the Past: Meta-Continual Learning withKnowledge Embedding for Jointly Sketch, Cartoon, andCaricature Face Recognition",327
+Learning Inclusion Matching for Animation Paint Bucket Coloriation,328
+Learning Inclusion Matching for Animation Paint Bucket Colorization,329
+Learning Inclusion Matching for Animation Paint Bucket Colorization ,330
+Learning to Cartoonize Using White-box Cartoon Representations,331
+Learning to Dub Movies via Hierarchical Prosody Models,332
+Learning to Incorporate Texture Saliency Adaptive Attention to Image Cartoonization,333
+Learning to Shadow Hand-drawn Sketches,334
+Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup,335
+Line Art Colorization Based on Explicit Region Segmentation,336
+Line Art Colorization with Concatenated Spatial Attention,337
+Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization,338
+Line-Based Drawing Style Description for Manga Classification,339
+Line-Wise Text Identification in Comic Books: A Support Vector Machine-Based Approach,340
+LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering,341
+LongAnimation: Long Animation Generation with Dynamic Global-Local Memory,342
+LVCD: Reference-based Lineart Video Colorization with Diffusion Models,343
+LVCD: Reference-based Lineart Video Colorization with Diffusion Models ,344
+M2C: Towards Automatic Multimodal Manga Complement,345
+"MagicAnime: A Hierarchically Annotated, Multimodal and Multitasking Dataset with Benchmarks for Cartoon Animation Generation",346
+Make-A-Story: Visual Memory Conditioned Consistent Story Generation,347
+Make-A-Storyboard: A General Framework for Storyboard with Disentangled and Merged Control,348
+MakeItTalk: Speaker-Aware Talking-Head Animation,349
+Making Robots Draw A Vivid Portrait In Two Minutes,350
+Manga Colorization,351
+Manga Content Analysis Using Physiological Signals,352
+Manga Filling Style Conversion with Screentone Variational Autoencoder,353
+Manga Generation via Layout-controllable Diffusion,354
+Manga Rescreening with Interpretable Screentone Representation,355
+Manga Text Detection with Manga-Specific Data Augmentation and Its Applications on Emotion Analysis,356
+Manga Vectorization and Manipulation with Procedural Simple Screentone,357
+Manga-MMTL: Multimodal Multitask Transfer Learning for Manga Character Analysis,358
+Manga109Dialog A Large-scale Dialogue Dataset for Comics Speaker Detection,359
+Manga109Dialog: A Large-scale Dialogue Dataset for Comics Speaker Detection,360
+MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing,361
+MANGAN: ASSISTING COLORIZATION OF MANGA CHARACTERS CONCEPT ART USING CONDITIONAL GAN,362
+MangaNinja: Line Art Colorization with Precise Reference Following,363
+MangaUB: A Manga Understanding Benchmark for Large Multimodal Models,364
+MaRU: A Manga Retrieval and Understanding System Connecting Vision and Language,365
+MARVEL: Raster Gray-level Manga Vectorization via Primitive-wise Deep Reinforcement Learning,366
+Mastering Sketching: Adversarial Augmentation for Structured Prediction,367
+MeLFusion: Synthesizing Music from Image and Language Cues using Diffusion Models,368
+Method for Automatic E-Comic Scene Frame Extraction for Reading Comic on Mobile Devices,369
+Method for Real Time Text Extraction of Digital Manga Comic,370
+MikuDance: Animating Character Art with Mixed Motion Dynamics,371
+MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance,372
+Mind the Gap: Domain Gap Control for Single Shot Domain Adaptation for Generative Adversarial Networks,373
+Mind the Time: Temporally-Controlled Multi-Event Video Generation,374
+MineGAN: effective knowledge transfer from GANs to target domains with few images,375
+MineGAN++: Mining Generative Models for Efficient Knowledge Transfer to Limited Data Domains,376
+Modeling Artistic Workflows for Image Generation and Editing,377
+MontageGAN: Generation and Assembly of Multiple Components by GANs,378
+Motion-Conditioned Image Animation for Video Editing,379
+Movie2Comics: Towards a Lively Video Content Presentation,380
+MulT: An End-to-End Multitask Learning Transformer,381
+Multi-CartoonGAN for Conditional Artistic Face Translation,382
+Multi-Density Sketch-to-Image Translation Network,383
+Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward,384
+Multi-Teacher Knowledge Distillation For Text Image Machine Translation,385
+Multimodal Persona Based Generation of Comic Dialogs,386
+Multimodal Transformer for Comics Text-Cloze,387
+Neural Optimal Transport,388
+Object Detection for Comics using Manga109 Annotations,389
+ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion,390
+Occlusion-Aware Manga Character Re-Identification with Self-Paced Contrastive Learning,391
+One missing peace in Vision & Language: A survey on Comics Understanding,392
+One missing piece in Vision and Language: A Survey on Comics Understanding,393
+One-shot Line Extraction from Color Illustrations,394
+Open-Vocabulary DETR with Conditional Matching,395
+Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings,396
+Outline Colorization through Tandem Adversarial Networks,397
+Overcoming Long-term Catastrophic Forgetting through Adversarial Neural Pruning and Synaptic Consolidation,398
+Page Stream Segmentation with Convolutional Neural Nets Combining Textual and Visual Features,399
+Paint Bucket Colorization Using Anime Character Color Design Sheets,400
+PAINTING STYLE-AWARE MANGA COLORIZATION BASED ON GENERATIVE ADVERSARIAL NETWORKS,401
+PaintsTorch: a User-Guided Anime Line Art Colorization Tool with Double Generator Conditional Adversarial Network,402
+Panel and Speech Balloon Extraction from Comic Books,403
+Panel Tracking for the Extraction and the Classification of Speech Balloons,404
+Panel-Page-Aware Comic Genre Understanding,405
+PAniC-3D: Stylized Single-view 3D Reconstruction from Portraits of Anime Characters,406
+Parsing-Conditioned Anime Translation: A New Dataset and Method,407
+Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer,408
+PCT-Net: Full Resolution Image Harmonization Using Pixel-Wise Color Transformations,409
+Perceptual-aware Sketch Simplification Based on Integrated VGG Layers,410
+Personalised CLIP or: How to Find Your Vacation Videos,411
+Personalized Comic Story Generation,412
+PHOG Analysis of Self-Similarity in Aesthetic Images,413
+Photorealistic Video Generation with Diffusion Models,414
+PhysAnimator: Physics-Guided Generative Cartoon Animation,415
+PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain,416
+PMSGAN: Parallel Multistage GANs for Face Image Translation,417
+Pose Estimation of Anime/Manga Characters: A Case for Synthetic Data,418
+Potrace : A Polygon-Based Tracing Algorithm,419
+Progressive Deep Feature Learning for Manga Character Recognition via Unlabeled Training Data,420
+Progressive Full Data Convolutional Neural Networks for Line Extraction from Anime-Style Illustrations,421
+PromptFix: You Prompt and We Fix the Photo,422
+Pseudo-Supervised Learning for Semantic Multi-Style Transfer,423
+"Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond",424
+RAG: Facial Attribute Editing by Learning Residual Attributes,425
+Raster Manga Vectorization via Primitive-wise Deep Reinforcement Learning,426
+Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production,427
+Real-ESRGAN: Training Real-World Blind Super-Resolution with Pure Synthetic Data,428
+Real-Time Data-Driven Interactive Rough Sketch Inking,429
+Recognizing Text Elements for SVG Comic Compression and Its Novel Applications,430
+Reference Based Sketch Extraction via Attention Mechanism,431
+Reference-base Image Composition with Sketch via Structure-aware Diffusion Model,432
+Reference-based Manga Colorization by Graph Correspondence Using Quadratic Programming,433
+Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence,434
+Reference-guided structure-aware deep sketch colorization for cartoons,435
+Reframe Anything: LLM Agent for Open World Video Reframing,436
+Relation Analysis between Speech Balloon Shapes and Their Serif Descriptions in Comic,437
+Research and Development of the Generation in Japanese Manga Based on Frontal Face Image,438
+Robust Manga Page Colorization via Coloring Latent Space,439
+RPGAN: GANs Interpretability via Random Routing,440
+Sakuga-42M Dataset: Scaling Up Cartoon Research ,441
+Scalable Comic-like Video Summaries and Layout Disturbance,442
+Scaling Concept With Text-Guided Diffusion Models,443
+Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport,444
+Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation,445
+Seamless Manga Inpainting with Semantics Awareness,446
+Searching Digital Political Cartoons,447
+SEED-Story: Multimodal Long Story Generation with Large Language Model,448
+Seg2pix: Few Shot Training Line Art Colorization with Segmented Image Data,449
+Self-supervised Enhancement of Latent Discovery in GANs,450
+Semantic Example Guided Image-to-Image Translation,451
+Semantic Parsing of Interpage Relations,452
+Semi-Auto Sketch Colorization Based on Conditional Generative Adversarial Networks,453
+Semi-Automatic Colorization Pipeline for Anime Characters and its Evaluation in Production,454
+Semi-automatic Manga Colorization Using Conditional Adversarial Networks,455
+Semi-supervised reference-based sketch extraction using a contrastive learning framework,456
+Shading-Guided Manga Screening from Reference,457
+Similar Manga Retrieval Using Visual Vocabulary Based on Regions of Interest,458
+Similarity Learning Based on Pool-Based Active Learning for Manga Character Retrieval,459
+Skeleton-Driven Inbetweening of Bitmap Character Drawings,460
+Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation,461
+Sketch-based Anime Hairstyle Editing with Generative Inpainting,462
+Sketch-Based Manga Retrieval Using Deep Features,463
+Sketch-based Manga Retrieval using Manga109 Dataset,464
+Sketch-Guided Scene Image Generation,465
+Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation,466
+SKETCH2MANGA: SHADED MANGA SCREENING FROM SKETCH WITH DIFFUSION MODELS,467
+Sketch2Manga: Sketch-based Manga Retrieval,468
+SketchBetween: Video-to-Video Synthesis for Sprite Animation via Sketches,469
+SketchColour: Channel Concat Guided DiT-based Sketch-to-Colour Pipeline for 2D Animation,470
+SketchMan: Learning to Create Professional Sketches,471
+SmartPaint: a co-creative drawing system based on generative adversarial networks,472
+SmartShadow: Artistic Shadow Drawing Tool for Line Drawings,473
+SPatchGAN: A Statistical Feature Based Discriminator for Unsupervised Image-to-Image Translation,474
+Spatially Augmented Speech Bubble to Character Association via Comic Multi-task Learning,475
+Spatially Controllable Image Synthesis with Internal Representation Collaging,476
+Speech Balloon and Speaker Association for Comics and Manga Understanding,477
+Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation,478
+SSH: A Self-Supervised Framework for Image Harmonization,479
+SSIMBaD: Sigma Scaling with SSIM-Guided Balanced Diffusion for AnimeFace Colorization,480
+SSN: Soft Shadow Network for Image Compositing,481
+StarGAN Based Facial Expression Transfer for Anime Characters,482
+StdGEN: Semantic-Decomposed 3D Character Generation from Single Images,483
+StencilTorch: An Iterative and User-Guided Framework for Anime Lineart Colorization,484
+Stereoscopizing Cel Animations,485
+Story Pattern Analysis Based on Scene Order Information in Four-Scene Comics,486
+StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation,487
+StoryGAN: A Sequential Conditional GAN for Story Visualization,488
+StoryImager: A Unified and Efficient Framework for Coherent Story Visualization and Completion,489
+StoryWeaver: A Unified World Model for Knowledge-Enhanced Story Character Customization,490
+Style Transfer for Anime Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN,491
+StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing,492
+StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators,493
+StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces,494
+Styleverse: Towards Identity Stylization across Heterogeneous Domains,495
+Stylized-Colorization for Line Arts,496
+StyO: Stylize Your Face in Only One-Shot,497
+Surrogate Gradient Field for Latent Space Manipulation,498
+Synthesis of Screentone Patterns of Manga Characters,499
+Synthesizing Coherent Story with Auto-Regressive Latent Diffusion Models,500
+Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss,501
+Tails Tell Tales: Chapter-Wide Manga Transcriptions with Character Names,502
+Taming Visually Guided Sound Generation,503
+Temporal Noise Control for Sketchy Animation,504
+Text Detection in Manga by Combining Connected-Component-Based and Region-Based Classifications,505
+"Text Detection in Manga by Deep Region Proposal, Classification, and Regression",506
+Text-Aware Balloon Extraction from Manga,507
+Textoon: Generating Vivid 2D Cartoon Characters from Text Descriptions,508
+TexToons: Practical Texture Mapping for Hand-drawn Cartoon Animations,509
+The Amazing Mysteries of the Gutter: Drawing Inferences Between Panels in Comic Book Narratives,510
+The Animation Transformer: Visual Correspondence via Segment Matching,511
+The Future of Graphic Novel Translation: Fully Automated Systems,512
+The Manga Whisperer: Automatically Generating Transcriptions for Comics,513
+The Visual Language Research Corpus (VLRC) Project,514
+Thin-Plate Spline-based Interpolation for Animation Line Inbetweening,515
+Thinking Outside the BBox: Unconstrained Generative Object Compositing,516
+TokenFlow: Consistent Diffusion Features for Consistent Video Editing,517
+Toon3D: Seeing Cartoons from a New Perspective,518
+ToonCrafter: Generative Cartoon Interpolation,519
+Toonsynth: example-based synthesis of hand-colored cartoon animations,520
+Toward Accessible Comics for Blind and Low Vision Readers,521
+Toward Cross-Domain Object Detection in Artwork Images Using Improved YoloV5 and XGBoosting,522
+Towards Content-Aware Pixel-Wise Comic Panel Segmentation,523
+Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks,524
+Towards Diverse Anime Face Generation: Active Label Completion and Style Feature Network,525
+Towards Fully Automated Manga Translation,526
+Towards Layer-wise Image Vectorization,527
+Towards Solving Multimodal Comprehension,528
+Towards the Automatic Anime Characters Creation with Generative Adversarial Networks,529
+Transfer Learning for Pose Estimation of Illustrated Characters,530
+Transfer photo to anime with dual discriminators GAN,531
+Translation of Illustration Artist Style Using Sailormoonredraw Data,532
+TransPixar: Advancing Text-to-Video Generation with Transparency,533
+Turn Real People into Anime Cartoonization,534
+Twin-GAN – Unpaired Cross-Domain Image Translation with Weight-Sharing GANs,535
+Two-stage Sketch Colorization,536
+Two-Stage Sketch Colorization With Color Parsing,537
+Two-Step Training: Adjustable Sketch Colourization via Reference Image and Text Tag,538
+U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation,539
+Unaligned Image-to-Image Translation by Learning to Reweight,540
+Unbiased Mean Teacher for Cross-domain Object Detection,541
+Unconstrained Text Detection in Manga: a New Dataset and Baseline,542
+Universal Face Restoration With Memorized Modulation,543
+Unlocking Comics: The AI4VA Dataset for Visual Understanding,544
+Unpaired Cartoon Image Synthesis via Gated Cycle Mapping,545
+Unpaired Image-to-Image Translation using Adversarial Consistency Loss,546
+Unpaired Image-to-Image Translation using Negative Learning for Noisy Patches,547
+Unpaired Sketch-to-Line Translation via Synthesis of Sketches,548
+Unsupersived Image Texture Transfer Based On Generative Adversarial Network,549
+Unsupervised Coherent Video Cartoonization with Perceptual Motion Consistency,550
+Unsupervised Colorization of Black-and-White Cartoons,551
+Unsupervised Discovery of Disentangled Interpretable Directions for Layer-Wise GAN,552
+Unsupervised Discovery of Disentangled Manifolds in GANs,553
+Unsupervised Discovery of Interpretable Directions in the GAN Latent Space,554
+Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network,555
+Unsupervised Learning of Compositional Energy Concepts,556
+Unsupervised Manga Character Re-identification via Face-body and Spatial-temporal Associated Clustering,557
+User Guided Digital Artwork Colorization,558
+User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks,559
+User-Guided Line Art Flat Filling with Split Filling Mechanism,560
+Using Comics to Introduce and Reinforce Programming Concepts in CS1,561
+UVCGAN: UNET VISION TRANSFORMER CYCLE-CONSISTENT GAN FOR UNPAIRED IMAGE-TO-IMAGE TRANSLATION,562
+V2C: Visual Voice Cloning,563
+V2Meow: Meowing to the Visual Beat via Video-to-Music Generation,564
+Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model,565
+VideoComposer: Compositional Video Synthesis with Motion Controllability,566
+VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning,567
+VideoStudio: Generating Consistent-Content and Multi-Scene Videos,568
+VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling,569
+Visual adaptation in translated comics,570
+Vlogger: Make Your Dream A Vlog,571
+VLPose: Bridging the Domain Gap in Pose Estimation with Language-Vision Tuning,572
+VToonify: Controllable High-Resolution Portrait Video Style Transfer,573
+What Do We Expect from Comic Panel Extraction?,574
+Zero-Shot Character Identification and Speaker Prediction in Comics via Iterative Multimodal Fusion,575
+Zero-Shot Object Detection with Textual Descriptions,576

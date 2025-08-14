@@ -1,0 +1,316 @@
+title,authors,year,venue,doi,url
+Extracting Accentuation Effects Using a Painted Image,"Tomoya Sato, Y. Dobashi, Tsuyoshi Yamamoto, K. Takao, K. Anjyo",2004,,,https://www.semanticscholar.org/paper/04d1bd4bc6476510acf513258e2f1923b3840d7e
+A Comprehensive Gold Standard and Benchmark for Comics Text Detection and Recognition,"Gürkan Soykan, Deniz Yuret, T. M. Sezgin",2022,IEEE International Conference on Document Analysis and Recognition,,https://www.semanticscholar.org/paper/06526681c7ece8e1bc36db43c137a8a575ffae7c
+Big Data and Deep Learning in Smart Cities: A Comprehensive Dataset for AI-Driven Traffic Accident Detection and Computer Vision Systems,"Victor A. Adewopo, Nelly Elsayed, Zag ElSayed, Murat Ozer, Constantinos L. Zekios, Ahmed Abdelgawad, Magdy A. Bayoumi",2024,SoutheastCon,,https://www.semanticscholar.org/paper/0f6592e52072bbf5565df52ef79f714459be5eae
+A Deep Learning Pipeline for the Synthesis of Graphic Novels,"Thomas Melistas, Giannis Siglidis, Fivos Kalogiannis, Ilan Manouach",2021,International Conference on Innovative Computing and Cloud Computing,,https://www.semanticscholar.org/paper/7b9d862e958d909ddfcb595ffbae418a304efee4
+A Deep Learning-Based Approach for Inappropriate Content Detection and Classification of YouTube Videos,"Kanwal Yousaf, Tabassam Nawaz",2022,IEEE Access,,https://www.semanticscholar.org/paper/559102b5c1d6b2aa07ff639d0f9db971476bfb54
+A Drawing Support System for Sketching Aging Anime Faces,,,,,
+A Faster R-CNN Based Method for Comic Characters Face Detection,,,,,
+Placing language in an integrated understanding system: Next steps toward human-level performance in neural language models,"James L. McClelland, Felix Hill, Maja R. Rudolph, Jason Baldridge, Hinrich Schütze",2020,Proceedings of the National Academy of Sciences of the United States of America,,https://www.semanticscholar.org/paper/00b1e962182c42949822821dc1a929bd132ec082
+A Note on Data Biases in Generative Models,,,,,
+A Novel Double-Tail Generative Adversarial Network for Fast Photo Animation,,,,,
+A Simple Framework for Contrastive Learning of Visual Representations,,,,,
+More Than Reading Comprehension: A Survey on Datasets and Metrics of Textual Question Answering,"Yang Bai, D. Wang",2021,arXiv.org,,https://www.semanticscholar.org/paper/12bc45e2268a5742d21a8a37109f8793417cefcc
+Introduction to the Special Issue on W4A’21,"Victoria Yaneva, D. Ahmetovic",2023,ACM Transactions on Accessible Computing,,https://www.semanticscholar.org/paper/1bd73910b7c9c51da21549f0a4e56442fec5c8ba
+Adding Conditional Control to Text-to-Image Diffusion Models,,,,,
+AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning,Linjie Luo,2021,,,https://www.semanticscholar.org/paper/9abde733335c31f60e30d9d3c476488e22788ac7
+Algorithms for estimation of comic speakers considering reading order of frames and texts,"Yuga Omori, Kota Nagamizo, Daisuke Ikeda",2022,IIAI International Conference on Advanced Applied Informatics,,https://www.semanticscholar.org/paper/c5aaa63eccb08a2c680b90bf46daad023cc5514e
+Analysis Based on Distributed Representations of Various Parts Images in Four-Scene Comics Story Dataset,,,,,
+ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video,,,,,
+Animate-X: Universal Character Image Animation with Enhanced Motion Representation,,,,,
+AnimateDiff-Lightning: Cross-Model Diffusion Distillation,"Shanchuan Lin, Xiao Yang",2024,arXiv.org,,https://www.semanticscholar.org/paper/9bb56cefc7d7f0964b7e5220e453193ef1b1606b
+Animation Anycolor: Enhancing Line Drawing Colorization with Keypoint Matching,,,,,
+Animation Line Art Colorization Based on Optical Flow Method,,,,,
+Anime Character Colorization using Few-shot Learning,,,,,
+Anime-like Character Face Generation: A Survey,Xuanfei Li,2023,Highlights in Science Engineering and Technology,,https://www.semanticscholar.org/paper/17dde4ed880fa50fab4a8dd172517795c465b1ed
+Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks,,,,,
+AnimeCeleb: Large-Scale Animation CelebHeads Dataset for Head Reenactment,,,,,
+AnimeColor: Reference-based Animation Colorization with Diffusion Transformers,"Yuhong Zhang, Liyao Wang, Han Wang, Danni Wu, Zuzen Lin, Feng Wang, Li Song",2025,,,https://www.semanticscholar.org/paper/ee77e4ca97b26ad4c543dabd669ee6ac51f89c44
+AnimeDL-2M: Million-Scale AI-Generated Anime Image Detection and Localization in Diffusion Era,,,,,
+AnimeGamer: Infinite Anime Life Simulation with Next Game State Prediction,,,,,
+AnimeGAN: A Novel Lightweight GAN for Photo Animation,"Jie Chen, Gang Liu, Xin Chen",2019,International Symposium on Intelligence Computation and Applications,,https://www.semanticscholar.org/paper/10a9c5d183e7e7df51db8bfa366bc862262b37d7
+Supplementary Materials for AnimeSR: Learning Real-World Super-Resolution Models for Animation Videos,"Yanze Wu, Xintao Wang, Gen Li, Ying Shan",,,,https://www.semanticscholar.org/paper/5ca5cda19b1d35aa5dbfd95109b51d1b6f38baee
+Anita Dataset: An Industrial Animation Dataset ,,,,,
+AniWho : A Quick and Accurate Way to Classify Anime Character Faces in Images,"Martinus Grady Naftali, Jason Sebastian Sulistyawan, Kelvin Julian, Felix Indra Kurniadi",2022,arXiv.org,,https://www.semanticscholar.org/paper/ab4d5bf855eafdb78db8c9c9bb61097b3cf36f2b
+Artist-Guided Semiautomatic Animation Colorization,"Harrish Thasarathan, Mehran Ebrahimi",2019,2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW),,https://www.semanticscholar.org/paper/bbc37cf2c5f78199bf358ccbad64ce3298f60c09
+Attention-Aware Anime Line Drawing Colorization,"Yu Cao, Hao Tian, P. Mok",2022,IEEE International Conference on Multimedia and Expo,,https://www.semanticscholar.org/paper/961e3f601f55f9f6b240238252b96f0b21f068ce
+Unsupervised anime avatar sketch colorization based on reuse discriminators for encoding,"Sicong Zhang, Jiting Zhou",2022,Other Conferences,,https://www.semanticscholar.org/paper/5c9b3ab35f7efc114f6f162392f7bb861bc2e2fb
+Haemorrhoidectomy with or without tears?,A. Rubin,1979,Annals of the Royal College of Surgeons of England,,https://www.semanticscholar.org/paper/00c8f0d9ddf053685e1d12d9eb9fd1ce3d9bf119
+AttentionGAN: Unpaired Image-to-Image Translation Using Attention-Guided Generative Adversarial Networks,"Hao Tang, Hong Liu, Dan Xu, Philip H. S. Torr, N. Sebe",2019,IEEE Transactions on Neural Networks and Learning Systems,,https://www.semanticscholar.org/paper/3cf10c7c6f65ec45a9ed58b7a8ca7210cba8ac27
+Augmenting Conversations With Comic-Style Word Balloons,,,,,
+Class-Conditional Defense GAN Against End-To-End Speech Attacks,"Mohammad Esmaeilpour, P. Cardinal, Alessandro Lameiras Koerich",2020,"IEEE International Conference on Acoustics, Speech, and Signal Processing",,https://www.semanticscholar.org/paper/0ae4c05b1ce74c588b8e417c26abc6ecbdbd5e8b
+Frame skeleton based auto-inbetweening in computer assisted cel animation,"K. Melikhov, Feng Tian, S. H. Soon, Quan Chen, Jie Qiu",2004,International Conference on Cyberworlds,,https://www.semanticscholar.org/paper/0948aefedf43a648fa8ceb0ec8c244c7bc45b861
+"Speechreading by Man and Machine: Models, Systems, and Applications","D. Stork, M. Hennecke",1996,,,https://www.semanticscholar.org/paper/2b5e9793e31ff05db2e21092a6252fe7bb122caa
+Automatic Sketch Colorization with Tandem Conditional Adversarial Networks,,,,,
+Online Video Stream Abstraction and Stylization,"Song-Hai Zhang, Xian-Ying Li, Shimin Hu, Ralph Robert Martin",2011,IEEE transactions on multimedia,,https://www.semanticscholar.org/paper/059a45d34f7183af033dab8443f4fe21af914656
+What counts as success? The perspective of university-based researchers on their role in a school-university partnership,"V. Baumfield, Moira Hulme, F. Payne",2010,,,https://www.semanticscholar.org/paper/1077ec3e7bf1a9f82fcefbefdae5c655922076e6
+Bridging the Gap: Sketch-Aware Interpolation Network for High-Quality Animation Sketch Inbetweening \,,,,,
+Building a Manga Dataset ”Manga109” with Annotations for Multimedia Applications,,,,,
+CameraCtrl: Enabling Camera Control for Text-to-Video Generation,,,,,
+Caricaturation for Human Face Pictures,,,,,
+Cartoon Face Recognition: A Benchmark Dataset,,,,,
+Cartoon image colorization based on emotion recognition and superpixel color resolution,"Zhibin Su, Yun-fang Zhang, Jia Li, Nan Gao",2020,International Carnahan Conference on Security Technology,,https://www.semanticscholar.org/paper/11f4f48402b15768dc449c41969cc6c2f9a58154
+Cartoon Image Processing: A Survey,,,,,
+Cartoon-Flow: A Flow-Based Generative Adversarial Network for Arbitrary-Style Photo Cartoonization,"Jieun Lee, Hyeonwoo Kim, Jong-Chae Shim, Eenjun Hwang",2022,ACM Multimedia,,https://www.semanticscholar.org/paper/be02f38168230dfc1e66c0d9a1d5ee30b17a62dd
+Cartoonize Images using TinyML Strategies with Transfer Learning,,,,,
+CartoonRenderer: An Instance-based Multi-Style Cartoon Image Translator,"Yugang Chen, Muchun Chen, Chaoyue Song, Bingbing Ni",2019,Conference on Multimedia Modeling,,https://www.semanticscholar.org/paper/600b9eced5b9c399cf510dd3d908e97a61fd325f
+CAST: CHARACTER LABELING IN ANIMATION USING SELF-SUPERVISION BY TRACKING,,,,,
+CAST: Character Labeling in Animation Using Self‐supervision by Tracking,,,,,
+cGAN-Based Manga Colorization Using a Single Training Image,"Paulina Hensman, K. Aizawa",2017,IEEE International Conference on Document Analysis and Recognition,,https://www.semanticscholar.org/paper/cb50d3080ab198741aa7ee87d285b984ea289100
+"ChartStory: Automated Partitioning, Layout, and Captioning of Charts into Comic-Style Narratives","Jian Zhao, Shenyu Xu, Senthil K. Chandrasegaran, Chris Bryan, F. Du, Aditi Mishra, Xin Qian, Yiran Li, K. Ma",2021,IEEE Transactions on Visualization and Computer Graphics,,https://www.semanticscholar.org/paper/1e1d18fb0647676dafd4b5d1ece61a3eb0aee28c
+Classification Representations Can be Reused for Downstream Generations,,,,,
+Cobra: Efficient Line Art COlorization with BRoAder References,,,,,
+CogCartoon: Towards Practical Story Visualization,,,,,
+Deep Watching: Towards New Methods of Analyzing Visual Media in Cultural Studies,"Bernhard Bermeitinger, S. Gassner, S. Handschuh, G. Howanitz, Erik Radisch, Malte Rehbein",2019,,,https://www.semanticscholar.org/paper/00c490585daa6bc849b8ea01e025aeaece28c9cd
+Efficient high-dimensional filtering for image and video processing,E. S. Gastal,2015,,,https://www.semanticscholar.org/paper/044fbcc1f5e99b7bf0e29e81e894b26f898b763c
+ColorFlow: Retrieval-Augmented Image Sequence Colorization,"Junhao Zhuang, Xu Ju, Zhaoyang Zhang, Yong Liu, Shiyi Zhang, Chun Yuan, Ying Shan",2024,arXiv.org,,https://www.semanticscholar.org/paper/7dbd36f5deff60b734336a507cbfbe96f18a2d17
+Coloring anime line art videos with transformation region enhancement network,"Ning Wang, Muyao Niu, Zhi Dou, Zhihui Wang, Zhiyong Wang, Zhaoyan Ming, B. Liu, Haojie Li",2023,Pattern Recognition,,https://www.semanticscholar.org/paper/f3cf4e11a630d2e8e22524ed76db684e649e8071
+Colorization for Anime Sketches with Cycle Consistent Adversarial Network,"Guanghua Zhang, Mengnan Qu, Yuhao Jin, Qingpeng Song",2019,International Journal of Performability Engineering,,https://www.semanticscholar.org/paper/501e17cb84ed6ce077e098c8bc773ab972e2520b
+Colorization of Line Drawings with Empty Pupils,"Kenta Akita, Yuki Morimoto, R. Tsuruno",2020,Computer graphics forum (Print),,https://www.semanticscholar.org/paper/ad8adbd99d50320789c06b5a6495b06b449efff0
+ColorizeDiffusion v2: Enhancing Reference-based Sketch Colorization Through Separating Utilities,,,,,
+ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text,"Dingkun Yan, Liang Yuan, Yuma Nishioka, I. Fujishiro, Suguru Saito",2024,arXiv.org,,https://www.semanticscholar.org/paper/16356fb02bb6f13e96fbf34aa9ab8fca2870ba3e
+Combating Mode Collapse in GANs via Manifold Entropy Estimation,"Haozhe Liu, Bing Li, Haoqian Wu, Hanbang Liang, Yawen Huang, Yuexiang Li, Bernard Ghanem, Yefeng Zheng",2022,arXiv.org,,https://www.semanticscholar.org/paper/1e64b0d23d2ebdde9d92eeb407be0eb05fe9d14d
+Comic character animation using Bayesian estimation,"Yun-Feng Chou, Zen-Chung Shih",2011,Comput. Animat. Virtual Worlds,,https://www.semanticscholar.org/paper/e419b74dd576b579cf342fce65e040face3cf2d2
+Comic Image Inpainting via Distance Transform,,,,,
+Comic Live Chat communication tool based on concept of downgrading,"Misa Matsuda, I. Tanev, K. Shimohara",2010,Proceedings of SICE Annual Conference 2010,,https://www.semanticscholar.org/paper/cf5feba67fb89f9b904d568347ace0c44ce67c64
+Comic Story Analysis Based on Genre Classification,,,,,
+ComicBERT: A Transformer Model and Pre-training Strategy for Contextual Understanding in Comics,"Gurkan Soykan, Deniz Yuret, T. M. Sezgin",2024,IEEE International Conference on Document Analysis and Recognition,,https://www.semanticscholar.org/paper/2cb1ee4878f4ca7fd52fb5033ced1f759c3b46cd
+ComicLib: A New Large-Scale Comic Dataset for Sketch Understanding,,,,,
+2-1 Colorization Techniques for Manga and Line Drawings; Comicolorization: Semi-Automatic Manga Colorization,Chie Furusawa,2018,,,https://www.semanticscholar.org/paper/0ddca7a222c7d0a083af914134593a95db49c2f8
+ComicQA: Contextual Navigation Aid by Hyper-Comic Representation,,,,,
+Comics as a Pedagogical Tool for Teaching,,,,,
+Comics Datasets Framework: Mix of Comics datasets for detection benchmarking,"Emanuele Vivoli, Irene Campaioli, Mariateresa Nardoni, Niccoló Biondi, Marco Bertini, Dimosthenis Karatzas",2024,IEEE International Conference on Document Analysis and Recognition,,https://www.semanticscholar.org/paper/12ee5ce93a5fc4730dc98268aa08ce93db7d5134
+ICDAR 2021 Competition on Multimodal Emotion Recognition on Comics Scenes,"Nhu-Van Nguyen, Xuan-Son Vu, Christophe Rigaud, Lili Jiang, J. Burie",2021,IEEE International Conference on Document Analysis and Recognition,,https://www.semanticscholar.org/paper/ac007e362bfd5a427c90081f48245beff4a94d1f
+Computer Vision in Digital Humanities,"M. Kleppe, Matthew D. Lincoln, M. Wevers, Mark Williams, Benoit Seguin, T. Smits",2017,Digital Humanities Conference,,https://www.semanticscholar.org/paper/07b7bbe8dd59e3bd2b63babdcd43b76e019ede7d
+GAN and DCN Based Multi-step Supervised Learning for Image Semantic Segmentation,"Jie Fang, Xiaoqian Cao",2018,Chinese Conference on Pattern Recognition and Computer Vision,,https://www.semanticscholar.org/paper/0018087d027bc49a512fb9443cf190a2fb6b55c0
+Continual few-shot patch-based learning for anime-style colorization,"Akinobu Maejima, Seitaro Shinagawa, Hiroyuki Kubo, Takuya Funatomi, T. Yotsukura, Satoshi Nakamura, Y. Mukaigawa",2024,Computational Visual Media,,https://www.semanticscholar.org/paper/1db0c13b673ce979ac75685e361fc9c6ed523e1a
+Controlling StyleGANs using rough scribbles via one‐shot learning,"Yuki Endo, Yoshihiro Kanamori",2022,Comput. Animat. Virtual Worlds,,https://www.semanticscholar.org/paper/edb8378bc2a87563a016c7ae08bd9bdd6d84f0f0
+COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts,"Jeonghun Baek, Yusuke Matsui, K. Aizawa",2022,European Conference on Computer Vision,,https://www.semanticscholar.org/paper/0d745f2db7e3de9cd01a90eeedd115d5ecf014b3
+Creative Flow+ Dataset,,,,,
+Cross-Domain and Disentangled Face Manipulation with 3D Guidance,,,,,
+Cross-Domain Style Mixing for Face Cartoonization,,,,,
+CustomCrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities,,,,,
+DA-GAN: Instance-Level Image Translation by Deep Attention Generative Adversarial Networks,"Shuang Ma, Jianlong Fu, Chang Wen Chen, Tao Mei",2018,2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/247d40bed85d09e752f60e5183f14b02e100360b
+"DAF: re: A Challenging, Crowd-Sourced, Large-Scale, Long-Tailed Dataset For Anime Character Recognition","Edwin Arkel Rios, Wen-Huang Cheng, B. Lai",2021,arXiv.org,,https://www.semanticscholar.org/paper/9992e634f17ed379e2e89092c388c51f1b2b2e70
+DATA INSTANCE PRIOR FOR TRANSFER LEARNING IN GANS,,,,,
+Decomposing Images into Layers with Advanced Color Blending,,,,,
+Deep Animation Video Interpolation in the Wild,"Siyao Li, Shiyu Zhao, Weijiang Yu, Wenxiu Sun, Dimitris N. Metaxas, Chen Change Loy, Ziwei Liu",2021,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/701c56592f6b4132f5869f175a46c88df12a3340
+Deep Edge-Aware Interactive Colorization against Color-Bleeding Effects,"Eungyeup Kim, Sanghyeon Lee, Jeonghoon Park, Somi Choi, Choonghyun Seo, J. Choo",2021,IEEE International Conference on Computer Vision,,https://www.semanticscholar.org/paper/e67806e8fac4e6f735561c4d5b45db515716c4c7
+"Deep learning-based classification of the polar emotions of ""moe""-style cartoon pictures","Qinchen Cao, Weilin Zhang, Yonghua Zhu",2021,Tsinghua Science and Technology,,https://www.semanticscholar.org/paper/fd1aaaf5ad5e41560ff99c7bcc00a485a2a4a070
+Dense Multitask Learning to Reconfigure Comics,,,,,
+DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation,"Jianzong Wu, Chao Tang, Jingbo Wang, Yanhong Zeng, Xiangtai Li, Yunhai Tong",2024,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/ecbc2f63c0216c82fa5a22b2f33454b8f25e5a35
+DiffusER: Diffusion via Edit-based Reconstruction,"Machel Reid, Vincent J. Hellendoorn, Graham Neubig",2023,International Conference on Learning Representations,,https://www.semanticscholar.org/paper/0004c4e27e54f13577951416d8ed476e93f00ef9
+Diffutoon: High-Resolution Editable Toon Shading via Diffusion Models,,,,,
+DiLight: Digital light table - Inbetweening for 2D animations using guidelines,"L. Carvalho, R. Marroquim, E. V. Brazil",2017,Computers & graphics,,https://www.semanticscholar.org/paper/51d25899414d8929a298b9f302c3cb0bf0081009
+DisenStudio: Customized Multi-Subject Text-to-Video Generation with Disentangled Spatial Control,"Hong Chen, Xin Wang, Yipeng Zhang, Yuwei Zhou, Zeyang Zhang, Siao Tang, Wenwu Zhu",2024,ACM Multimedia,,https://www.semanticscholar.org/paper/d7b11b6a2a06cb96751b715296a2aa13b338c02c
+DisUnknown: Distilling Unknown Factors for Disentanglement Learning,"Sitao Xiang, Yuming Gu, Pengda Xiang, Menglei Chai, Hao Li, Yajie Zhao, Mingming He",2021,IEEE International Conference on Computer Vision,,https://www.semanticscholar.org/paper/2309d2e49d5a017a4ddc2624189b9ecc0a2c534a
+Do You Like Sclera? Sclera-region Detection and Colorization for Anime Character Line Drawings,"M. Aizawa, Y. Sei, Yasuyuki Tahara, R. Orihara, Akihiko Ohsuga",2019,Int. J. Networked Distributed Comput.,,https://www.semanticscholar.org/paper/ed3f89f5f6831f4f685c1624d1cc2d51cf30eb19
+Document Classification and Page Stream Segmentation for Digital Mailroom Applications,,,,,
+Supplementary Material for DoveNet: Deep Image Harmonization via Domain Veriﬁcation,"Wenyan Cong, Jianfu Zhang, Li Niu, Liu Liu, Zhixin Ling, Weiyuan Li, Liqing Zhang",2020,,,https://www.semanticscholar.org/paper/79c1db893a594e8570f29ddb957922f3335c6cb0
+Dr.Bokeh: DiffeRentiable Occlusion-Aware Bokeh Rendering,"Yichen Sheng, Zixun Yu, Lu Ling, Zhiwen Cao, Cecilia Zhang, Xin Lu, Ke Xian, Haiting Lin, Bedrich Benes",2023,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/2e5a8fceca704092ff7aa941b8f21221c822a533
+DrawingSpinUp: 3D Animation from Single Character Drawings,"Jie Zhou, Chufeng Xiao, Miu-Ling Lam, Hongbo Fu",2024,ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia,,https://www.semanticscholar.org/paper/567772b00d05d8e47a988ab16e00d9b3f315710b
+DreamArtist: Towards Controllable One-Shot Text-to-Image Generation via Positive-Negative Prompt-Tuning,"Ziyi Dong, Pengxu Wei, Liang Lin",2023,,,https://www.semanticscholar.org/paper/a671cfb5cfc755176db1ba26087b68690a7d5d04
+DreamRunner: Fine-Grained Compositional Story-to-Video Generation with Retrieval-Augmented Motion Adaptation,"Zun Wang, Jialu Li, Han Lin, Jaehong Yoon, Mohit Bansal",2024,,,https://www.semanticscholar.org/paper/0825afca3855db8836c13c5c66ec30bb9bb90b1e
+Dual Color Space Guided Sketch Colorization,,,,,
+Dual Loss for Manga Character Recognition with Imbalanced Training Data,,,,,
+DyStyle: Dynamic Neural Network for Multi-Attribute-Conditioned Style Editings,"Bingchuan Li, Shaofei Cai, Wei Liu, Peng Zhang, Miao Hua, Qian He, Zili Yi",2021,IEEE Workshop/Winter Conference on Applications of Computer Vision,,https://www.semanticscholar.org/paper/764a7148ed00a5e202e20d7bebcefbfbd31fb0b7
+Efficient Continual Adaptation for Generative Adversarial Networks,,,,,
+EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing,"Gaoxiang Cong, Jiadong Pan, Liang Li, Yuankai Qi, Yuxin Peng, A. Hengel, Jian Yang, Qingming Huang",2024,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/d2281389f0026eaa2fe813f4afc54fc83dd970a6
+StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",2023,IEEE International Conference on Computer Vision,,https://www.semanticscholar.org/paper/06aa2aa2a29f25437545478e7361744aa35a0419
+End-to-End Line Drawing Vectorization,,,,,
+Erasing Appearance Preservation in Optimization-based Smoothing,,,,,
+Exemplar-Based Sketch Colorization with Cross-Domain Dense Semantic Correspondence,"Jinrong Cui, Haowei Zhong, Hailong Liu, Yulu Fu",2022,Mathematics,,https://www.semanticscholar.org/paper/51724ac953db05270c67dde08d3ee03f6f3914d1
+Exploring Sketch-based Character Design Guided by Automatic Colorization,,,,,
+Extraction of Frame Sequences in the Manga Context,"Christian Roggia, Fabio Persia",2020,IEEE International Symposium on Multimedia,,https://www.semanticscholar.org/paper/f3eae9dfca3f57c8138e9ef2b8a78dd0e1d06d4c
+Fast Leak-Resistant Segmentation for Anime Line Art,"Benjamin Allen, Akinobu Maejima, Ken Anjyo",2024,SIGGRAPH Asia Technical Communications,,https://www.semanticscholar.org/paper/3cf43d36479f67b704e9e7fe2c84b87d8468d538
+Feature Quantization Improves GAN Training,,,,,
+FEW-SHOT ADAPTATION OF GENERATIVE ADVERSARIAL NETWORKS,,,,,
+Few-shot Semantic Image Synthesis Using StyleGAN Prior,"Yuki Endo, Yoshihiro Kanamori",2021,arXiv.org,,https://www.semanticscholar.org/paper/24dfd76a4de22dea0bbf780997b9756c83eadec9
+LineArt: A Knowledge-guided Training-free High-quality Appearance Transfer for Design Drawing with Diffusion Model,"Xi Wang, Hongzhen Li, Heng Fang, Yichen Peng, Haoran Xie, Xi Yang, Chuntao Li",2024,arXiv.org,,https://www.semanticscholar.org/paper/0e04ca37407678db34e54cef661712b67e299e66
+Floating No More: Object-Ground Reconstruction from a Single Image,"Yunze Man, Yichen Sheng, Jianming Zhang, Liangyan Gui, Yu-Xiong Wang",2024,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/ecdf4349b6223cf326a5074244cffb159149f9e3
+FoleyGen: Visually-Guided Audio Generation,,,,,
+Framer: Interactive Frame Interpolation,,,,,
+From Speaker to Dubber: Movie Dubbing with Prosody and Duration Consistency Learning,,,,,
+Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks,"K. Hamada, Kentaro Tachibana, Tianqi Li, Hiroto Honda, Yusuke Uchida",2018,ECCV Workshops,,https://www.semanticscholar.org/paper/307e8d67c24b6ef9960bd6a2a03722a471bf4ddd
+Fully Automatic Colorization for Anime Character Considering Accurate Eye Colors,,,,,
+GAN Memory with No Forgetting,,,,,
+GAN-based Multi-Style Photo Cartoonization,,,,,
+Image-to-Image Style Transfer Based on the Ghost Module,"Yan Jiang, Xinrui Jia, Liguo Zhang, Ye Yuan, Lei Chen, Guisheng Yin",2021,Computers Materials & Continua,,https://www.semanticscholar.org/paper/a5494b0eedf2e3c71fd44176e5d2ad181cf43aa0
+"GANs N' Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)","Min Jin Chong, David A. Forsyth",2021,arXiv.org,,https://www.semanticscholar.org/paper/c79b7d36351938301877a3fa6d5478f368ef0f3f
+"GANs N‚Äô Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)",,,,,
+Generating Coherent Comic with Rich Story Using ChatGPT and Stable Diffusion,,,,,
+Generating Full-Body Standing Figures of Anime Characters and Its Style Transfer by GAN,,,,,
+Generating Manga from Illustrations via Mimicking Manga Workflow,Lvmin Zhang,2021,,,https://www.semanticscholar.org/paper/714be044d43ebda4adde777eeda63d71e075cd7c
+Edinburgh Research Explorer Generating visual stories with grounded and coreferent characters,"Danyang Liu, Mirella Lapata, Frank Keller",,,,https://www.semanticscholar.org/paper/3ee788f16851fc1cd2ae5bb941febef0e03d43a2
+Generative Probabilistic Image Colorization,,,,,
+"Good Artists Copy, Great Artists Steal: Model Extraction Attacks Against Image Translation Models","Sebastian Szyller, Vasisht Duddu, Tommi Grondahl, Nirmal Asokan",2021,,,https://www.semanticscholar.org/paper/87af159e1eaa99d17b9b6aff6781f2342e8ff385
+AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models,"Yuhang Wu, Wenmeng Yu, Yean Cheng, Yan Wang, Xiaohan Zhang, Jiazheng Xu, Ming Ding, Yuxiao Dong",2024,Annual Meeting of the Association for Computational Linguistics,,https://www.semanticscholar.org/paper/000d1d7fcc043c34a99afff72c06328034594bc7
+Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection,"Shilong Liu, Zhaoyang Zeng, Tianhe Ren, Feng Li, Hao Zhang, Jie Yang, Chun-yue Li, Jianwei Yang, Hang Su, Jun-Juan Zhu, Lei Zhang",2023,European Conference on Computer Vision,,https://www.semanticscholar.org/paper/c3e5a20b844c042d2174263d2fd5b30d8cc8f0b0
+GroundVLP: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training and Open-Vocabulary Object Detection,"Haozhan Shen, Tiancheng Zhao, Mingwei Zhu, Jianwei Yin",2023,AAAI Conference on Artificial Intelligence,,https://www.semanticscholar.org/paper/d63b7b7d63e06db118d35fac98df336d6e7d0e06
+Guiding Users to Where to Give Color Hints for Efficient Interactive Sketch Colorization via Unsupervised Region Prioritization,,,,,
+Hair Shading Style Transfer for Manga with cGAN,"M. Aizawa, R. Orihara, Y. Sei, Yasuyuki Tahara, Akihiko Ohsuga",2020,International Conference on Agents and Artificial Intelligence,,https://www.semanticscholar.org/paper/8d694b0bc38ab54ef61cebf7a4e71e014bfd4068
+SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion,"Vikram S. Voleti, Chun-Han Yao, Mark Boss, Adam Letts, David Pankratz, Dmitry Tochilkin, Christian Laforte, Robin Rombach, Varun Jampani",2024,European Conference on Computer Vision,,https://www.semanticscholar.org/paper/03e2cfa44b64489fb98f09dfbd940043fbef90ad
+HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms,,,,,
+How to train your conditional GAN: An approach using geometrically structured latent manifolds,"Sameera Ramasinghe, M. Farazi, Salman Hameed Khan, Nick Barnes, Stepehn Gould",2020,arXiv.org,,https://www.semanticscholar.org/paper/42c2b76352d3a97c0feef88e37f224527e5c5541
+HRInversion: High-Resolution GAN Inversion for Cross-Domain Image Synthesis,"Peng Zhou, Lingxi Xie, Bingbing Ni, Lin Liu, Qi Tian",2023,IEEE transactions on circuits and systems for video technology (Print),,https://www.semanticscholar.org/paper/8a93d21c111e9aa78f96764b491c6c0659720829
+Human-Art: A Versatile Human-Centric Dataset Bridging Natural and Artificial Scenes,"Xu Ju, Ailing Zeng, Jianan Wang, Qian Xu, Lei Zhang",2023,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/467b839cb8a2475477ca004df94b797d967ad057
+Hyprogan: Breaking the Dimensional wall From Human to Anime,"Yinpeng Chen, Jiale Zhang, Z. Cao, Hao Lu, Weicai Zhong",2022,International Conference on Information Photonics,,https://www.semanticscholar.org/paper/fbbd2392c0a80588a1fc10171b4930350a2c065e
+Identity-Aware Semi-Supervised Learning for Comic Character Re-Identification,,,,,
+A Remote-Sensing Method to Estimate Bulk Refractive Index of Suspended Particles from GOCI Satellite Measurements over Bohai Sea and Yellow Sea,"D. Sun, Zunbin Ling, Shengqiang Wang, Z. Qiu, Yu Huan, Z. Mao, Yijun He",2019,Applied Sciences,,https://www.semanticscholar.org/paper/023915786a039410d2836f96fce18aa9a1d65c69
+Deep Illumination: Approximating Dynamic Global Illumination with Generative Adversarial Network,"M. M. Thomas, A. Forbes",2017,arXiv.org,,https://www.semanticscholar.org/paper/00424e3aed0c6bc392133d027025c7401ce6ab9f
+Attribute Consistency Guided Generative Adversarial Networks for Unsupervised Image-to-Image Translation,"Feng-Lin Liu, Li Yao",2022,,,https://www.semanticscholar.org/paper/07748a420c810cbf54dd32c50df821f12582ddd0
+Improving the Perceptual Quality of 2D Animation Interpolation,"Shuhong Chen, Matthias Zwicker",2021,European Conference on Computer Vision,,https://www.semanticscholar.org/paper/1831959445c2e995b9fe79dfa6386de6c58138cf
+Ink-and-Ray: Bas-Relief Meshes for Adding Global Illumination Effects to Hand-Drawn Characters,,,,,
+Intelligent Grimm - Open-ended Visual Storytelling via Latent Diffusion Models,"Chang Liu, Haoning Wu, Yujie Zhong, Xiaoyu Zhang, Weidi Xie",2023,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/e8753374e402cd756dcfec9bc74a34f8a5047f80
+Interactive Cartoonization with Controllable Perceptual Factors,"Namhyuk Ahn, Patrick Kwon, Jihye Back, Kibeom Hong, Seungkwon Kim",2022,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/04e399a661e1f3ce16f26f5622aaf05eace2ca2f
+Interactive Data Comics,,,,,
+Interactive Manga Colorization with Fast Flat Coloring,"Delong Ouyang, Ryosuke Furuta, Yugo Shimizu, Y. Taniguchi, Ryota Hinami, Shonosuke Ishiwatari",2021,SIGGRAPH ASIA Posters,,https://www.semanticscholar.org/paper/1e12cef368286175ac98a378a13bc40f8b79432c
+Supplementary Materials for Paper “InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks”,,,,,https://www.semanticscholar.org/paper/8692a8ac9cb05ddde764db85b40cb062c1a8a6c5
+Intrinsic Image Harmonization,,,,,
+Joint Geometric-Semantic Driven Character Line Drawing Generation,,,,,
+Joint Stroke Tracing and Correspondence for 2D Animation,,,,,
+KidsGUARD: Fine Grained Approach for Child Unsafe Video Representation and Detection,,,,,
+L2M-GAN: Learning to Manipulate Latent Space Semantics for Facial Attribute Editing,"Guoxing Yang, Nanyi Fei, Mingyu Ding, Guangzhen Liu, Zhiwu Lu, T. Xiang",2021,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/6a156289c7758ff5ce53cdab0931267e59725d7c
+Landmark Assisted CycleGAN for Cartoon Face Generation,"Ruizheng Wu, Xiaodong Gu, Xin Tao, Xiaoyong Shen, Yu-Wing Tai, Jiaya Jia",2019,arXiv.org,,https://www.semanticscholar.org/paper/515ec130736879b3a78859b51ed27e316ed75223
+Language-Guided Face Animation by Recurrent StyleGAN-based Generator,,,,,
+Large Language Models as Manga Translators: A Case Study,,,,,
+LayoutGAN: Synthesizing Graphic Layouts With Vector-Wireframe Adversarial Networks,"Jianan Li, Jimei Yang, Aaron Hertzmann, Jianming Zhang, Tingfa Xu",2020,IEEE Transactions on Pattern Analysis and Machine Intelligence,,https://www.semanticscholar.org/paper/0f10d01ebce1f175019d58a52058827ddbc85d98
+Consensus Style Centralizing Auto-Encoder for Weak Style Classification,"Shuhui Jiang, Ming Shao, Chengcheng Jia, Y. Fu",2016,AAAI Conference on Artificial Intelligence,,https://www.semanticscholar.org/paper/05d5860c98b935fa6b1cd037dbac2c13b3945876
+"Learning from the Past: Meta-Continual Learning withKnowledge Embedding for Jointly Sketch, Cartoon, andCaricature Face Recognition",,,,,
+Learning Inclusion Matching for Animation Paint Bucket Colorization,"Yu Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy",2024,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/3ae8aab20ce7187a2cfeebfcd43ed81b00f7f8a9
+Learning Inclusion Matching for Animation Paint Bucket Colorization,"Yu Dai, Shangchen Zhou, Qinyue Li, Chongyi Li, Chen Change Loy",2024,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/3ae8aab20ce7187a2cfeebfcd43ed81b00f7f8a9
+Learning to Cartoonize Using White-Box Cartoon Representations,"Xinrui Wang, Jinze Yu",2020,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/0269b13ccbe3e3a81213e7ca2b049298d3a154f5
+Dubbing Movies via Hierarchical Phoneme Modeling and Acoustic Diffusion Denoising.,"Liang Li, Gaoxiang Cong, Yuankai Qi, Zheng-Jun Zha, Qi Wu, Quan Z. Sheng, Qingming Huang, Ming-Hsuan Yang",2025,IEEE Transactions on Pattern Analysis and Machine Intelligence,,https://www.semanticscholar.org/paper/48b77db746dd5289890f5e6c8fb229f648492e2e
+Learning to Simplify: Fully Convolutional Networks for Rough Sketch Cleanup,,,,,
+Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization,"Qian Zhang, Bo Wang, W. Wen, Hai Li, Junhui Liu",2020,IEEE Workshop/Winter Conference on Applications of Computer Vision,,https://www.semanticscholar.org/paper/dd84195cce4d629227788641a866beea7213c53c
+Line-wise text identification in comic books: A support vector machine-based approach,"S. Pal, J. Burie, U. Pal, J. Ogier",2016,IEEE International Joint Conference on Neural Network,,https://www.semanticscholar.org/paper/86f2e81c908a8b186773e2bc05c4abbe98a415ea
+LinkTo-Anime: A 2D Animation Optical Flow Dataset from 3D Model Rendering,"Xiaoyi Feng, Kaifeng Zou, Caichun Cen, Tao Huang, Hui Guo, Zizhou Huang, Yingli Zhao, Mingqing Zhang, Diwei Wang, Yuntao Zou, Dagang Li",2025,arXiv.org,,https://www.semanticscholar.org/paper/134588680a389238dfd00e6c0563fb79a26f259c
+LVCD: Reference-based Lineart Video Colorization with Diffusion Models,"Zhitong Huang, Mohan Zhang, Jing Liao",2024,ACM Transactions on Graphics,,https://www.semanticscholar.org/paper/97705d8c14345882683edefc367e830f94b3415e
+LVCD: Reference-based Lineart Video Colorization with Diffusion Models,"Zhitong Huang, Mohan Zhang, Jing Liao",2024,ACM Transactions on Graphics,,https://www.semanticscholar.org/paper/97705d8c14345882683edefc367e830f94b3415e
+Make-A-Storyboard: A General Framework for Storyboard with Disentangled and Merged Control,,,,,
+MakeItTalk: Speaker-Aware Talking Head Animation,"Yang Zhou, Dingzeyu Li, Xintong Han, E. Kalogerakis, Eli Shechtman, J. Echevarria",2020,arXiv.org,,https://www.semanticscholar.org/paper/7a7c4e666e5dd8a489770643b72fd99cf708f7c1
+Making Robots Draw A Vivid Portrait In Two Minutes,"Fei Gao, Jingjie Zhu, Zeyuan Yu, Peng Li, Tao Wang",2020,IEEE/RJS International Conference on Intelligent RObots and Systems,,https://www.semanticscholar.org/paper/0522d10bafa639e13a6de7abf6de2d4fefbb13fa
+Boundary-aware texture region segmentation from manga,"Xueting Liu, Chengze Li, T. Wong",2017,Computational Visual Media,,https://www.semanticscholar.org/paper/006b69083ae5be0a2cee3bdb50dfdeea7b2ccf40
+Manga Rescreening with Interpretable Screentone Representation,"M. Xie, Chengze Li, T. Wong",2023,arXiv.org,,https://www.semanticscholar.org/paper/7a6a87bb04eb663fcb6aaa80c1e3c714334ea40e
+Manga Vectorization and Manipulation with Procedural Simple Screentone,"Chih-Yuan Yao, Shih-Hsuan Hung, Guo-Wei Li, I-Yu Chen, Reza Adhitya, Yu-Chi Lai",2017,IEEE Transactions on Visualization and Computer Graphics,,https://www.semanticscholar.org/paper/57c36aea1b9a428e6b07e29d31693c5fa90ceae7
+Manga-MMTL: Multimodal Multitask Transfer Learning for Manga Character Analysis,"Nhu-Van Nguyen, Christophe Rigaud, A. Revel, J. Burie",2021,IEEE International Conference on Document Analysis and Recognition,,https://www.semanticscholar.org/paper/d4e68231fa58fc567f237c830408ab3fc3186319
+Manga109Dialog: A Large-Scale Dialogue Dataset for Comics Speaker Detection,"Yingxuan Li, K. Aizawa, Yusuke Matsui",2023,IEEE International Conference on Multimedia and Expo,,https://www.semanticscholar.org/paper/0bcd777ae62ead721d31030405b714d1af1b554b
+Manga109Dialog: A Large-scale Dialogue Dataset for Comics Speaker Detection,,,,,
+Unpaired Photo-to-manga Translation Based on The Methodology of Manga Drawing,"Hao Su, J. Niu, Xuefeng Liu, Qingfeng Li, Jiahe Cui, J. Wan",2020,AAAI Conference on Artificial Intelligence,,https://www.semanticscholar.org/paper/55f45f009bdf4f8ec0bbf5c1c0da6db0e39508da
+Mangan: Assisting Colorization Of Manga Characters Concept Art Using Conditional GAN,"Felipe Coelho Silva, Paulo André Lima de Castro, Hélio Ricardo Júnior, E. Marujo",2019,International Conference on Information Photonics,,https://www.semanticscholar.org/paper/2300f3f5d39a3fb647990b767d852b182c1c21f4
+MangaNinja: Line Art Colorization with Precise Reference Following,,,,,
+MangaUB: A Manga Understanding Benchmark for Large Multimodal Models,,,,,
+Mastering Sketching: Adversarial Augmentation for Structured Prediction,,,,,
+Method for Automatic E-Comic Scene Frame Extraction for Reading Comic on Mobile Devices,"K. Arai, H. Tolle",2010,2010 Seventh International Conference on Information Technology: New Generations,,https://www.semanticscholar.org/paper/d10db1694aedd2f5c144f3171f61dd844b02f3cc
+Method for Real Time Text Extraction of Digital Manga Comic,"K. Arai, H. Tolle",2011,,,https://www.semanticscholar.org/paper/25d1d80cbbfc82d8dcd4e98f03dae24027cc3e0f
+MineGAN++: Mining Generative Models for Efficient Knowledge Transfer to Limited Data Domains,,,,,
+Modeling Artistic Workflows for Image Generation and Editing,,,,,
+One-Shot Learning Meets Depth Diffusion in Multi-Object Videos,Anisha Jain,2024,arXiv.org,,https://www.semanticscholar.org/paper/138b1dbfdb6db6aafe60b8d7484131db12e3542a
+MuIT: An End-to-End Multitask Learning Transformer,"Deblina Bhattacharjee, Tong Zhang, S. Süsstrunk, M. Salzmann",2022,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/4b9b3c538999410c58e229ca15437a693cbb03c5
+Multi-CartoonGAN with Conditional Adaptive Instance-Layer Normalization for Conditional Artistic Face Translation,"Rina Komatsu, T. Gonsalves",2022,Applied Informatics,,https://www.semanticscholar.org/paper/41818f2e07078e1399182d50cf12537d121e2e43
+Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward,"Yunlong Tang, Siting Xu, Teng Wang, Qin Lin, Qinglin Lu, Feng Zheng",2022,Asian Conference on Computer Vision,,https://www.semanticscholar.org/paper/be5975f7cca9bbf30665d2539619eee01aebddb9
+Multi-Teacher Knowledge Distillation For Text Image Machine Translation,,,,,
+Multimodal Transformer for Comics Text-Cloze,"Emanuele Vivoli, Joan Lafuente Baeza, Ernest Valveny Llobet, Dimosthenis Karatzas",2024,IEEE International Conference on Document Analysis and Recognition,,https://www.semanticscholar.org/paper/064bdc53a8458e6ecba0728cf8140f703a1fe819
+Queue Detection using Fuzzy-Based Neural Network Model,Daehyon Kim,2003,,,https://www.semanticscholar.org/paper/000602188fb676a922b096b5dfcd6e17d22e7d4c
+Object Detection for Comics using Manga109 Annotations,,,,,
+ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion,"Daniel Winter, Matan Cohen, Shlomi Fruchter, Y. Pritch, A. Rav-Acha, Yedid Hoshen",2024,European Conference on Computer Vision,,https://www.semanticscholar.org/paper/f56c302f143fc39947c489d0e55f5bc4c786bfab
+Occlusion­-Aware Manga Character Re­-identification with Self-Paced Contrastive Learning,"Ci-Yin Zhang, Wei-Ta Chu",2023,ACM Multimedia Asia,,https://www.semanticscholar.org/paper/7a0c9d32ac3ac933e355d705dd2b48f78ea535b1
+HiveSurf: Breaking the Classification of Natural Landscapes,"Thomas Nicolai, Florian Resatsch, L. Kirchhoff",2006,,,https://www.semanticscholar.org/paper/0530c008b87c0e6f9e9f00a783b1e35651ef9c69
+Optical Flow Based Line Drawing Frame Interpolation Using Distance Transform to Support Inbetweenings,"Rei Narita, Keigo Hirakawa, K. Aizawa",2019,International Conference on Information Photonics,,https://www.semanticscholar.org/paper/43d5ef1d4737a1da4ad3dbacd9c243186913eee0
+Overcoming Long-term Catastrophic Forgetting through Adversarial Neural Pruning and Synaptic Consolidation,,,,,
+Page Stream Segmentation with Convolutional Neural Nets Combining Textual and Visual Features,"Gregor Wiedemann, Gerhard Heyer",2017,International Conference on Language Resources and Evaluation,,https://www.semanticscholar.org/paper/aa787dd40f3237b38053cb489338857fcb2c59b9
+Painting Style-Aware Manga Colorization Based On Generative Adversarial Networks,"Yugo Shimizu, Ryosuke Furuta, Delong Ouyang, Y. Taniguchi, Ryota Hinami, Shonosuke Ishiwatari",2021,International Conference on Information Photonics,,https://www.semanticscholar.org/paper/5e0e1017b18376f04ed3291c69dde461ee60bbb5
+PaintsTorch: a User-Guided Anime Line Art Colorization Tool with Double Generator Conditional Adversarial Network,"Yliess Hati, Grégor Jouet, F. Rousseaux, Clément Duhart",2019,European Conference on Visual Media Production,,https://www.semanticscholar.org/paper/4180a603f66f03a3663b967d8a53d267ff4a43e5
+PAniC-3D: Stylized Single-view 3D Reconstruction from Portraits of Anime Characters,"Shuhong Chen, Kevin Zhang, Yichun Shi, Heng Wang, Yiheng Zhu, Guoxian Song, Sizhe An, Janus Kristjansson, X. Yang, Matthias Zwicker",2023,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/e2b8284d0b653b4adac10a16561b14e00ffba6b1
+Parsing-Conditioned Anime Translation: A New Dataset and Method – Supplementary Materials –,Zhansheng Li,2023,,,https://www.semanticscholar.org/paper/2bed3cb6736df009bb5922ba0dfeecd3e4c82852
+"for ""Personalised CLIP or: how to find your vacation videos""","Bruno Korbar, Andrew Zisserman",,,,https://www.semanticscholar.org/paper/19e8016b016b6fd180b3fb7648275160bc496140
+AI-Driven Personalized Multisensory Design of Cultural Heritage: A Case Study of Kunqu Opera,"Tián Céng, Jie Zhou",2025,AHFE International,,https://www.semanticscholar.org/paper/9a5c215a1be16c780043b1bcb121b85fb215a2b9
+PHOG Analysis of Self-Similarity in Aesthetic Images,,,,,
+Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models,"Songwei Ge, Seungjun Nah, Guilin Liu, Tyler Poon, Andrew Tao, Bryan Catanzaro, David Jacobs, Jia-Bin Huang, Ming-Yu Liu, Y. Balaji",2023,IEEE International Conference on Computer Vision,,https://www.semanticscholar.org/paper/02bc11de9d2f75bad48166098aa6b30fffee4d70
+PhysAnimator: Physics-Guided Generative Cartoon Animation,,,,,
+PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain,"Sheng You, Ning You, Minxue Pan",2019,arXiv.org,,https://www.semanticscholar.org/paper/d0e6adb5ce85dedcad4014a3b121b79c0933d0ef
+Progressive Deep Feature Learning for Manga Character Recognition via Unlabeled Training Data,,,,,
+Advancing Facial Stylization through Semantic Preservation Constraint and Pseudo-Paired Supervision,"Zhanyi Lu, Yue Zhou",2025,arXiv.org,,https://www.semanticscholar.org/paper/fb4252528f2837cd83ef27c19b492d74869591c2
+RAG: Facial Attribute Editing by Learning Residual Attributes,"Honglun Zhang, Wenqing Chen, Jidong Tian, Hao He, Yaohui Jin",2019,IEEE Access,,https://www.semanticscholar.org/paper/a7c531c4a38721516c6c4c155ee2234e0a3656a1
+MARVEL: Raster Manga Vectorization via Primitive-wise Deep Reinforcement Learning,"H. Su, Jianwei Niu, Xuefeng Liu, Jiahe Cui, Ji Wan",2021,,,https://www.semanticscholar.org/paper/69f992a107c5cef606e67e84ded07fa372f7d2fb
+Re:Draw -- Context Aware Translation as a Controllable Method for Artistic Production,,,,,
+Real-time data-driven interactive rough sketch inking,"E. Simo-Serra, S. Iizuka, H. Ishikawa",2018,ACM Transactions on Graphics,,https://www.semanticscholar.org/paper/4fdb4c238c30e3cf463960c88b89635415435711
+Reference-based Image Composition with Sketch via Structure-aware Diffusion Model,"Kangyeol Kim, S. Park, Junsoo Lee, J. Choo",2023,arXiv.org,,https://www.semanticscholar.org/paper/7397eb511e866e31c49ae53e4949780f3e5cab66
+Relation Analysis between Speech Balloon Shapes and their Serif Descriptions in Comic,"Hideki Tanaka, Ryosuke Yamanishi, Jun-ichi Fukumoto",2015,2015 IIAI 4th International Congress on Advanced Applied Informatics,,https://www.semanticscholar.org/paper/09782a95a14bb22c4d58ada071c485596b1ec617
+RPGAN: GANs Interpretability via Random Routing,"A. Voynov, Artem Babenko",2019,arXiv.org,,https://www.semanticscholar.org/paper/19dd6f437cb023e192fa51d25a2205ff1a4e59a8
+Sakuga-42M Dataset: Scaling Up Cartoon Research ,,,,,
+Scalable Comic-Like Video Summaries and Layout Disturbance,"Luis Herranz, J. Calic, J. Sanchez, M. Mrak",2012,IEEE transactions on multimedia,,https://www.semanticscholar.org/paper/4ef315e86f45e8037fac7c5bf958dd292e4fed3b
+Scaling Concept With Text-Guided Diffusion Models,,,,,
+Seamless Manga Inpainting with Semantics Awareness,,,,,
+Seg2pix: Few Shot Training Line Art Colorization with Segmented Image Data,,,,,
+Self-supervised Enhancement of Latent Discovery in GANs,"Silpa Vadakkeeveetil Sreelatha, Adarsh Kappiyath, S. Sumitra",2021,AAAI Conference on Artificial Intelligence,,https://www.semanticscholar.org/paper/5d220f0fcfdb2c8f74996dfc0adeb27fdce453d5
+Semantic Example Guided Image-to-Image Translation,,,,,
+Semi-Automatic Colorization Pipeline for Anime Characters and its Evaluation in Production,,,,,
+Semi-automatic Manga Colorization Using Conditional Adversarial Networks,,,,,
+Similar Manga Retrieval Using Visual Vocabulary Based on Regions of Interest,"Weihan Sun, K. Kise",2011,IEEE International Conference on Document Analysis and Recognition,,https://www.semanticscholar.org/paper/f27ccd19c7fc446d6a7139238c90809e551226c8
+Skeleton-Driven Inbetweening of Bitmap Character Drawings,,,,,
+Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation,"Aditya Sanghi, P. Jayaraman, Arianna Rampini, J. Lambourne, Hooman Shayani, Evan Atherton, Saeid Asgari Taghanaki",2023,arXiv.org,,https://www.semanticscholar.org/paper/1b610296563ef5ce6de78e096d9bcc52543607d6
+Sketch-based Anime Hairstyle Editing with Generative Inpainting,,,,,
+Sketch-Based Manga Retrieval Using Deep Features,,,,,
+Sketch-Guided Scene Image Generation,,,,,
+Sketch2Anim: Towards Transferring Sketch Storyboards into 3D Animation,"Lei Zhong, Chuan Guo, Yiming Xie, Jiawei Wang, Changjian Li",2025,ACM Transactions on Graphics,,https://www.semanticscholar.org/paper/9c0973468e3be4783225840253952fe9c3dd0194
+SketchColour: Channel Concat Guided DiT-based Sketch-to-Colour Pipeline for 2D Animation,,,,,
+SmartShadow: Artistic Shadow Drawing Tool for Line Drawings,"Lvmin Zhang, Jinyue Jiang, Yi Ji, Chunping Liu",2021,IEEE International Conference on Computer Vision,,https://www.semanticscholar.org/paper/78633ef6f2f073942f255b17dad371226da8c668
+Spatially Controllable Image Synthesis with Internal Representation Collaging,"Ryohei Suzuki, Masanori Koyama, Takeru Miyato, Taizan Yonetsuji, Huachun Zhu",2018,,,https://www.semanticscholar.org/paper/fe6b20332d37c50722aee0c6133df6c70826d27f
+Sprite-from-Sprite: Cartoon Animation Decomposition with Self-supervised Sprite Estimation,,,,,
+SSH: A Self-Supervised Framework for Image Harmonization,,,,,
+StarGAN Based Facial Expression Transfer for Anime Characters,"Majid Mobini, F. Ghaderi",2020,International Computer Society of Iran Computer Conference,,https://www.semanticscholar.org/paper/540f0a5ff70013eaf90189879bdd1916226ee72b
+Story Pattern Analysis Based on Scene Order Information in Four-Scene Comics,"Miki Ueno, H. Isahara",2017,IEEE International Conference on Document Analysis and Recognition,,https://www.semanticscholar.org/paper/42fdc21ffa22ef868575cd1ca56179e503baa103
+StyleDubber: Towards Multi-Scale Style Learning for Movie Dubbing,"Gaoxiang Cong, Yuankai Qi, Liang Li, Amin Beheshti, Zhedong Zhang, A. Hengel, Ming-Hsuan Yang, Chenggang Yan, Qingming Huang",2024,Annual Meeting of the Association for Computational Linguistics,,https://www.semanticscholar.org/paper/47565e10d98c9a6a9377565f732b3f949ca73d1f
+StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators,,,,,
+StyleGANEX: StyleGAN-Based Manipulation Beyond Cropped Aligned Faces,"Shuai Yang, Liming Jiang, Ziwei Liu, Chen Change Loy",2023,IEEE International Conference on Computer Vision,,https://www.semanticscholar.org/paper/06aa2aa2a29f25437545478e7361744aa35a0419
+Imagination and Reality: Landscape and the Folk Culture of Joseon Dynasty Korea,M. Finley,2015,,,https://www.semanticscholar.org/paper/333331a2af976ed2adccda84b3a1a200112a60c7
+Surrogate Gradient Field for Latent Space Manipulation,"Minjun Li, Yanghua Jin, Huachun Zhu",2021,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/5f4c8a26d30b9a6a078c3f7433477f1c85cfb555
+Synthesis of Screentone Patterns of Manga Characters,,,,,
+"From animals to animats 11 : 11th International Conference on Simulation of Adaptive Behavior, SAB 2010, Paris - Clos Lucé, France, August 25-28, 2010 : proceedings",St'ephane Doncieux,2010,,,https://www.semanticscholar.org/paper/4a26ee5fbc29116188b3b91af53323829f79afc2
+"Text Detection in Manga by Deep Region Proposal, Classification, and Regression","W. Chu, Chih-Chi Yu",2018,Visual Communications and Image Processing,,https://www.semanticscholar.org/paper/f5a1eba14297ae3ccb10e1a6df8fb692f2175a9b
+TexToons: practical texture mapping for hand-drawn cartoon animations,"D. Sýkora, M. Ben-Chen, Martin Čadík, B. Whited, Maryann Simmons",2011,International Symposium on Non-Photorealistic Animation and Rendering,,https://www.semanticscholar.org/paper/18bc297b02f866b7cdb87ffd303401019698592c
+The Amazing Mysteries of the Gutter: Drawing Inferences Between Panels in Comic Book Narratives,"Mohit Iyyer, Varun Manjunatha, Anupam Guha, Yogarshi Vyas, Jordan L. Boyd-Graber, Hal Daumé, L. Davis",2016,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/bf63276c90a803fe0d069ce0a3a4a8236e756363
+The Future of Graphic Novel Translation: Fully Automated Systems,"Sandeep Singh, Kang Dept, of, G. Kaur, Sanjay Singla",2024,2024 International Conference on Knowledge Engineering and Communication Systems (ICKECS),,https://www.semanticscholar.org/paper/6f3d405aa672397a892f02e020cc766f427e376b
+The Visual Language Research Corpus (VLRC) Project,,,,,
+Thin-Plate Spline-based Interpolation for Animation Line Inbetweening,,,,,
+Toon3D: Seeing Cartoons from a New Perspective,,,,,
+Toward cross-domain object detection in artwork images using improved YoloV5 and XGBoosting,"Tasweer Ahmad, Maximilian Schich",2023,IET Image Processing,,https://www.semanticscholar.org/paper/429f73f346826e7c483a382365a5e4fb6fa75c78
+Towards Content-Aware Pixel-Wise Comic Panel Segmentation,"Hikaru Ikuta, Runtian Yu, Yusuke Matsui, K. Aizawa",2022,ICPR Workshops,,https://www.semanticscholar.org/paper/dd678dcf6c039c2bfa9911a3c825413d37a507a0
+Towards Diverse Anime Face Generation: Active Label Completion and Style Feature Network,,,,,
+Towards Fully Automated Manga Translation,"Ryota Hinami, Shonosuke Ishiwatari, K. Yasuda, Yusuke Matsui",2020,AAAI Conference on Artificial Intelligence,,https://www.semanticscholar.org/paper/a8302a61f49bbf1e702d417c4122dfbc729a4985
+"Image analysis and recognition : International Conference, ICIAR 2004, Porto, Portugal, September 29 - October 1, 2004 : proceedings","A. Campilho, M. Kamel",2004,,,https://www.semanticscholar.org/paper/18c95e001f1e6673e651c275c509995f0967b6ba
+"Diagrammatic representation and inference : 5th international conference, Diagrams 2008, Herrsching, Germany, September 19-21, 2008 : proceedings","Gem Stapleton, J. Howse, John Lee",2008,,,https://www.semanticscholar.org/paper/30b4bdc3e7d9bb8bd4a27fcadccfe150735916d6
+Transfer Learning for Pose Estimation of Illustrated Characters,,,,,
+Translation of Illustration Artist Style Using Sailormoonredraw Data,"Keita Awane, Daichi Horita, Hikaru Ikuta, Yusuke Matsui, K. Aizawa, Naohiro Yanase",2022,International Conference on Information Photonics,,https://www.semanticscholar.org/paper/a0128f140b9adcf0e6106609908b80415fe5247b
+TransPixeler: Advancing Text-to-Video Generation with Transparency,"Luozhou Wang, Yijun Li, Zhifei Chen, Jui-Hsien Wang, Zhifei Zhang, He Zhang, Zhe Lin, Yingcong Chen",2025,Computer Vision and Pattern Recognition,,https://www.semanticscholar.org/paper/0b1980c6e3f35a37d94f39830ddd020762dcb4f1
+Towards a Multimodal Analysis of da Rimini's Dollspace,Maya Zalbidea,2011,,,https://www.semanticscholar.org/paper/264fd541287ceafe31e930e60d8e9fc8f2970e2d
+Twin-GAN - Unpaired Cross-Domain Image Translation with Weight-Sharing GANs,Jerry Li,2018,arXiv.org,,https://www.semanticscholar.org/paper/4ab2b6ac74bc2f48c4e1fbf6156ec5f44c3b0654
+Twin-GAN ‚Äì Unpaired Cross-Domain Image Translation with Weight-Sharing GANs,,,,,
+Information for Contributors,,1980,,,https://www.semanticscholar.org/paper/023d07b7a7c94e727f778d4f5772796ff92917a8
+Two-Stage Sketch Colorization With Color Parsing,,,,,
+Two-Step Training: Adjustable Sketch Colourization via Reference Image and Text Tag,,,,,
+The Application of Semisupervised Attentional Generative Adversarial Networks in Desert Seismic Data Denoising,"Yue Li, X. Luo, N. Wu, Xintong Dong",2022,IEEE Geoscience and Remote Sensing Letters,,https://www.semanticscholar.org/paper/001f46bd4b7305d1bd388cde39d463b1dcbe5540
+Unaligned Image-to-Image Translation by Learning to Reweight,,,,,
+Unconstrained Text Detection in Manga: a New Dataset and Baseline,,,,,
+Universal Face Restoration With Memorized Modulation,,,,,
+Semi-paired Image-to-Image Translation using Neighbor-based Generative Adversarial Networks,"Le Xu, Weiling Cai, Honghan Zhou",2021,IEEE International Joint Conference on Neural Network,,https://www.semanticscholar.org/paper/00a9a8689ced36085c9a3447e8cb050e398df6fe
+Contrastive Learning and Cycle Consistency-Based Transductive Transfer Learning for Target Annotation,"S. Sami, M. Hasan, Nasser M. Nasrabadi, Raghuveer Rao",2024,IEEE Transactions on Aerospace and Electronic Systems,,https://www.semanticscholar.org/paper/39b05dee119b20936b3e2a589f6577f2ef347f17
+Unpaired Sketch-to-Line Translation via Synthesis of Sketches,"Gayoung Lee, Dohyun Kim, Y. Yoo, Dongyoon Han, Jung-Woo Ha, Jaehyuk Chang",2019,SIGGRAPH Asia Technical Briefs,,https://www.semanticscholar.org/paper/f1b1e792d8b498a7bcf95162785c44b20f90b2ba
+Do Not Escape From the Manifold: Discovering the Local Coordinates on the Latent Space of GANs,"Jaewoong Choi, Changyeon Yoon, Junho Lee, J. Park, Geonho Hwang, Myung-joo Kang",2021,International Conference on Learning Representations,,https://www.semanticscholar.org/paper/1e2770f58ba8b307d3048a4471cc42c489614484
+Unsupervised Discovery of Interpretable Directions in the GAN Latent Space,,,,,
+Unsupervised Image-to-Image Translation via Pre-trained StyleGAN2 Network,,,,,
+Learning and recognition by a dynamical system with a plastic velocity field,Daniel T. Gascoyne,2015,,,https://www.semanticscholar.org/paper/1f95433b65dcace69cf60f094a8069aa145eac5c
+Unsupervised Manga Character Re-identification via Face-body and Spatial-temporal Associated Clustering,"Zhimin Zhang, Zheng Wang, Wei Hu",2022,arXiv.org,,https://www.semanticscholar.org/paper/37a4f69d140af857aae1e2c6b58d9f0b4f7c3705
+User Guided Digital Artwork Colorization,,,,,
+User-Guided Deep Anime Line Art Colorization with Conditional Adversarial Networks,,,,,
+User-Guided Line Art Flat Filling with Split Filling Mechanism,,,,,
+Using Comics to Introduce and Reinforce Programming Concepts in CS1,"Sangho Suh, Celine Latulipe, Ken Jen Lee, Bernadette Cheng, E. Law",2021,Technical Symposium on Computer Science Education,,https://www.semanticscholar.org/paper/70421c0ffb7f164b19a9606b98523b69604fd005
+Supplementary for “V2C: Visual Voice Cloning”,"Qi Chen, Mingkui Tan, Yuankai Qi, Jiaqiu Zhou, Yuanqing Li, Qi Wu",2022,,,https://www.semanticscholar.org/paper/38c2f5ea9b90eec7e312c3e0fe15ea4c6421e95f
+Video2Music: Suitable Music Generation from Videos using an Affective Multimodal Transformer model,"Jaeyong Kang, Soujanya Poria, Dorien Herremans",2023,Expert systems with applications,,https://www.semanticscholar.org/paper/5045d5160ab962861a9f22b150fa16940c331faf
+VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning,,,,,
+VidMuse: A Simple Video-to-Music Generation Framework with Long-Short-Term Modeling,,,,,
+Visual adaptation in translated comics,,,,,
+Crafting Expressive Faces: A Comparative Exploration of Facial Animation Techniques in VToonify and AnimeGan,"Prof. Kiran Bode, Mr. Kuldeep Borkar, Ms. Vaishnavi Sonwane, Mr. Amar Mandale, Mr. Atharva Daware",2023,International Journal for Research in Applied Science and Engineering Technology,,https://www.semanticscholar.org/paper/2f13ae4312285466d3eaaa6e02301c062262d0e8
+What do We Expect from Comic Panel Extraction?,"Nhu-Van Nguyen, Christophe Rigaud, J. Burie",2019,2019 International Conference on Document Analysis and Recognition Workshops (ICDARW),,https://www.semanticscholar.org/paper/b78a0494a217c5412f1fd3b24f92ab40da3fbcf7
+Zero-Shot Object Detection with Textual Descriptions,,,,,
